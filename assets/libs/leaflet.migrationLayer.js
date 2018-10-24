@@ -46,10 +46,10 @@
           c = Math.sqrt(Math.pow(r / 2, 2) + Math.pow(r * h, 2)),
           p = Math.atan2(s - d, i - l),
           u = Math.atan2(e - d, a - l)
-        this.startX = i, this.startY = s, this.endX = a, this.endY = e, this.centerX = l, this.centerY = d, this.startAngle = p, this.endAngle = u, this.startLabel = t && t.labels && t.labels[0], this.endLabel = t && t.labels && t.labels[1], this.radius = c, this.lineWidth = t.width || 1, this.strokeStyle = t.color || "#000", this.label = t.label, this.font = t.font, this.shadowBlur = t.shadowBlur
+        this.startX = i, this.startY = s, this.endX = a, this.endY = e, this.centerX = l, this.centerY = d, this.startAngle = p, this.endAngle = u, this.startLabel = t && t.labels && t.labels[0], this.endLabel = t && t.labels && t.labels[1], this.radius = c, this.lineWidth = t.width || 1, this.strokeStyle = t.color || "#000", this.label = t.label, this.font = t.font
       }
       return t.prototype.draw = function (t) {
-        if (t.save(), t.lineWidth = this.lineWidth, t.strokeStyle = this.strokeStyle, t.shadowColor = this.strokeStyle, t.shadowBlur = this.shadowBlur || 2, t.beginPath(), t.arc(this.centerX, this.centerY, this.radius, this.startAngle, this.endAngle, !1), t.stroke(), t.restore(), t.save(), t.fillStyle = this.strokeStyle, this.label) {
+        if (t.save(), t.lineWidth = this.lineWidth, t.strokeStyle = this.strokeStyle, t.shadowColor = this.strokeStyle, t.beginPath(), t.arc(this.centerX, this.centerY, this.radius, this.startAngle, this.endAngle, !1), t.stroke(), t.restore(), t.save(), t.fillStyle = this.strokeStyle, this.label) {
           if (t.font = this.label, this.startLabel) {
             var i = this.startX - 15,
               s = this.startY + 5
@@ -66,13 +66,13 @@
     }(),
     r = function () {
       function t(t) {
-        this.x = t.x, this.y = t.y, this.maxRadius = t.radius, this.color = t.color, this.shadowBlur = 5, this.lineWidth = t.borderWidth, this.r = 0, this.factor = 2 / t.radius
+        this.x = t.x, this.y = t.y, this.maxRadius = t.radius, this.color = t.color, this.lineWidth = t.borderWidth, this.r = 0, this.factor = 2 / t.radius
       }
       return t.prototype.draw = function (t) {
         var s = .5
         this.r += s, t.save(), t.translate(this.x, this.y)
         var a = this.color
-        a = i.calculateColor(a, 1 - this.r / this.maxRadius), t.strokeStyle = a, t.shadowBlur = this.shadowBlur, t.shadowColor = a, t.lineWidth = this.lineWidth, t.beginPath(), t.arc(0, 0, this.r, 0, 2 * Math.PI, !1), t.stroke(), t.restore(), Math.abs(this.maxRadius - this.r) < .8 && (this.r = 0)
+        a = i.calculateColor(a, 1 - this.r / this.maxRadius), t.strokeStyle = a, t.shadowColor = a, t.lineWidth = this.lineWidth, t.beginPath(), t.arc(0, 0, this.r, 0, 2 * Math.PI, !1), t.stroke(), t.restore(), Math.abs(this.maxRadius - this.r) < .8 && (this.r = 0)
       }, t
     }(),
     o = function () {
