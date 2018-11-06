@@ -1,1 +1,1476 @@
-webpackJsonp([0],{239:function(l,n,t){"use strict";function u(l){return S._22(0,[(l()(),S.Z(0,0,null,null,71,"ion-card",[["class","admin-card"]],null,null,null,null,null)),S.Y(1,16384,null,0,_l.a,[nl.a,S.j,S.z],null,null),(l()(),S._20(-1,null,["\n\n  "])),(l()(),S.Z(3,0,null,null,67,"ion-card-content",[],null,null,null,null,null)),S.Y(4,16384,null,0,fl.a,[nl.a,S.j,S.z],null,null),(l()(),S._20(-1,null,["\n    "])),(l()(),S.Z(6,0,null,null,14,"div",[["class","avatar"],["text-center",""]],null,null,null,null,null)),(l()(),S._20(-1,null,["\n      "])),(l()(),S.Z(8,0,null,null,3,"div",[["class","avatar-img"]],null,null,null,null,null)),(l()(),S._20(-1,null,["\n        "])),(l()(),S.Z(10,0,null,null,0,"img",[["src","assets/imgs/avatar.jpeg"]],null,null,null,null,null)),(l()(),S._20(-1,null,["\n      "])),(l()(),S._20(-1,null,["\n      "])),(l()(),S.Z(13,0,null,null,2,"ion-label",[["class","heading"],["text-uppercase",""]],null,null,null,null,null)),S.Y(14,16384,null,0,hl.a,[nl.a,S.j,S.z,[8,null],[8,null],[8,null],[8,null]],null,null),(l()(),S._20(-1,null,[" Joseph Davies "])),(l()(),S._20(-1,null,["\n      "])),(l()(),S.Z(17,0,null,null,2,"ion-label",[["class","title"],["color","secondary"]],null,null,null,null,null)),S.Y(18,16384,null,0,hl.a,[nl.a,S.j,S.z,[8,null],[8,null],[8,null],[8,null]],{color:[0,"color"]},null),(l()(),S._20(-1,null,["Web Developer"])),(l()(),S._20(-1,null,["\n    "])),(l()(),S._20(-1,null,["\n    "])),(l()(),S.Z(22,0,null,null,15,"ion-grid",[["class","grid"],["no-padding",""]],null,null,null,null,null)),S.Y(23,16384,null,0,dl.a,[],null,null),(l()(),S._20(-1,null,["\n      "])),(l()(),S.Z(25,0,null,null,11,"ion-row",[["class","row"]],null,null,null,null,null)),S.Y(26,16384,null,0,gl.a,[],null,null),(l()(),S._20(-1,null,["\n        "])),(l()(),S.Z(28,0,null,null,7,"ion-col",[["class","col"],["col-12",""]],null,null,null,null,null)),S.Y(29,16384,null,0,ml.a,[],null,null),(l()(),S._20(-1,null,["\n          "])),(l()(),S._20(-1,null,["\n          "])),(l()(),S._20(-1,null,["\n          "])),(l()(),S._20(-1,null,["\n          "])),(l()(),S._20(-1,null,["\n          "])),(l()(),S._20(-1,null,["\n        "])),(l()(),S._20(-1,null,["\n\n      "])),(l()(),S._20(-1,null,["\n    "])),(l()(),S._20(-1,null,["\n\n    "])),(l()(),S.Z(39,0,null,null,30,"div",[["class","profiles"]],null,null,null,null,null)),(l()(),S._20(-1,null,["\n\n      "])),(l()(),S.Z(41,0,null,null,27,"ion-grid",[["class","grid"],["padding",""]],null,null,null,null,null)),S.Y(42,16384,null,0,dl.a,[],null,null),(l()(),S._20(-1,null,["\n        "])),(l()(),S.Z(44,0,null,null,22,"ion-row",[["class","row"]],null,null,null,null,null)),S.Y(45,16384,null,0,gl.a,[],null,null),(l()(),S._20(-1,null,["\n          "])),(l()(),S.Z(47,0,null,null,18,"ion-col",[["class","col"],["col-12",""],["text-justify",""]],null,null,null,null,null)),S.Y(48,16384,null,0,ml.a,[],null,null),(l()(),S._20(-1,null,["\n            "])),(l()(),S.Z(50,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),S._20(51,null,["",""])),(l()(),S._20(-1,null,["\n            "])),(l()(),S.Z(53,0,null,null,0,"br",[],null,null,null,null,null)),(l()(),S.Z(54,0,null,null,0,"br",[],null,null,null,null,null)),(l()(),S._20(-1,null,["\n            "])),(l()(),S.Z(56,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),S._20(57,null,["",""])),(l()(),S._20(-1,null,["\n\n\n            "])),(l()(),S.Z(59,0,null,null,5,"div",[["margin-top",""],["text-center",""]],null,null,null,null,null)),(l()(),S._20(-1,null,["\n              "])),(l()(),S.Z(61,0,null,null,2,"a",[["color","secondary"],["href","https://www.esmartcity.es/comunicaciones/comunicacion-gestor-accesibilidad-peatonal-urbana-planificador-viajes-accesibles"],["ion-button",""],["outline",""],["round",""],["target","_blank"]],null,null,null,bl.b,bl.a)),S.Y(62,1097728,null,0,vl.a,[[8,""],nl.a,S.j,S.z],{color:[0,"color"],outline:[1,"outline"],round:[2,"round"]},null),(l()(),S._20(-1,0,["\n                See more\n              "])),(l()(),S._20(-1,null,["\n\n            "])),(l()(),S._20(-1,null,["\n\n\n          "])),(l()(),S._20(-1,null,["\n\n        "])),(l()(),S._20(-1,null,["\n\n        "])),(l()(),S._20(-1,null,["\n\n      "])),(l()(),S._20(-1,null,["\n    "])),(l()(),S._20(-1,null,["\n  "])),(l()(),S._20(-1,null,["\n\n\n\n"])),(l()(),S._20(-1,null,["\n"]))],function(l,n){l(n,18,0,"secondary");l(n,62,0,"secondary","","")},function(l,n){var t=n.component;l(n,51,0,t.summary);l(n,57,0,t.summary2)})}function e(l){return S._22(0,[(l()(),S.Z(0,0,null,null,1,"ion-icon",[["class","open-icon"],["color","light"],["item-end",""],["name","arrow-dropdown-circle"],["role","img"]],[[2,"hide",null]],null,null,null,null)),S.Y(1,147456,[[3,4]],0,Sl.a,[nl.a,S.j,S.z],{color:[0,"color"],name:[1,"name"]},null)],function(l,n){l(n,1,0,"light","arrow-dropdown-circle")},function(l,n){l(n,0,0,S._11(n,1)._hidden)})}function o(l){return S._22(0,[(l()(),S.Z(0,0,null,null,1,"ion-icon",[["class","open-icon"],["color","light"],["item-end",""],["name","ios-arrow-dropup"],["role","img"]],[[2,"hide",null]],null,null,null,null)),S.Y(1,147456,[[3,4]],0,Sl.a,[nl.a,S.j,S.z],{color:[0,"color"],name:[1,"name"]},null)],function(l,n){l(n,1,0,"light","ios-arrow-dropup")},function(l,n){l(n,0,0,S._11(n,1)._hidden)})}function i(l){return S._22(0,[(l()(),S.Z(0,0,null,null,30,"ion-card",[],null,null,null,null,null)),S.Y(1,16384,null,0,_l.a,[nl.a,S.j,S.z],null,null),(l()(),S._20(-1,null,["\n\n  "])),(l()(),S.Z(3,0,null,null,19,"ion-item",[["class","clicable item item-block"],["color","secondary"]],null,[[null,"click"]],function(l,n,t){var u=!0;if("click"===n){u=!1!==l.component.toggleCollapse()&&u}return u},Yl.b,Yl.a)),S.Y(4,1097728,null,3,Zl.a,[kl.a,nl.a,S.j,S.z,[2,Il.a]],{color:[0,"color"]},null),S._18(335544320,1,{contentLabel:0}),S._18(603979776,2,{_buttons:1}),S._18(603979776,3,{_icons:1}),S.Y(8,16384,null,0,xl.a,[],null,null),(l()(),S._20(-1,2,["\n    "])),(l()(),S.Z(10,0,null,0,1,"ion-icon",[["item-start",""],["role","img"]],[[2,"hide",null]],null,null,null,null)),S.Y(11,147456,[[3,4]],0,Sl.a,[nl.a,S.j,S.z],{name:[0,"name"]},null),(l()(),S._20(-1,2,["\n    "])),(l()(),S.Z(13,0,null,1,2,"ion-label",[["class","heading"]],null,null,null,null,null)),S.Y(14,16384,[[1,4]],0,hl.a,[nl.a,S.j,S.z,[8,null],[8,null],[8,null],[8,null]],null,null),(l()(),S._20(15,null,["",""])),(l()(),S._20(-1,2,["\n    "])),(l()(),S.U(16777216,null,4,1,null,e)),S.Y(18,16384,null,0,jl.i,[S.I,S.F],{ngIf:[0,"ngIf"]},null),(l()(),S._20(-1,2,["\n    "])),(l()(),S.U(16777216,null,4,1,null,o)),S.Y(21,16384,null,0,jl.i,[S.I,S.F],{ngIf:[0,"ngIf"]},null),(l()(),S._20(-1,2,["\n  "])),(l()(),S._20(-1,null,["\n\n  "])),(l()(),S.Z(24,0,null,null,5,"div",[["class","collapse-container"]],[[24,"@collapseTrigger",0]],null,null,null,null)),S.Y(25,278528,null,0,jl.g,[S.p,S.q,S.j,S.A],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),S._14(26,{allowOverflow:0}),(l()(),S._20(-1,null,["\n    "])),S._10(null,0),(l()(),S._20(-1,null,["\n  "])),(l()(),S._20(-1,null,["\n\n\n\n"])),(l()(),S._20(-1,null,["\n"]))],function(l,n){var t=n.component;l(n,4,0,"secondary");l(n,11,0,S._2(1,"",t.icon,""));l(n,18,0,"collapsed"==t.state);l(n,21,0,"expanded"==t.state);l(n,25,0,"collapse-container",l(n,26,0,t.allowOverflow))},function(l,n){var t=n.component;l(n,10,0,S._11(n,11)._hidden);l(n,15,0,t.title);l(n,24,0,t.state)})}function a(l){return S._22(0,[(l()(),S.Z(0,0,null,null,4,"ion-avatar",[["item-left",""]],null,null,null,null,null)),S.Y(1,16384,null,0,wl.a,[],null,null),(l()(),S._20(-1,null,["\n          "])),(l()(),S.Z(3,0,null,null,0,"img",[["style","border-radius: 0%"]],[[8,"src",4]],null,null,null,null)),(l()(),S._20(-1,null,["\n        "]))],null,function(l,n){l(n,3,0,n.parent.context.$implicit.img)})}function s(l){return S._22(0,[(l()(),S.Z(0,0,null,null,3,"ion-icon",[["item-start",""],["role","img"]],[[2,"hide",null]],null,null,null,null)),S.Y(1,278528,null,0,jl.l,[S.q,S.j,S.A],{ngStyle:[0,"ngStyle"]},null),S._14(2,{color:0}),S.Y(3,147456,[[6,4]],0,Sl.a,[nl.a,S.j,S.z],{name:[0,"name"]},null)],function(l,n){l(n,1,0,l(n,2,0,n.parent.context.$implicit.color));l(n,3,0,n.parent.context.$implicit.icon)},function(l,n){l(n,0,0,S._11(n,3)._hidden)})}function r(l){return S._22(0,[(l()(),S.Z(0,0,null,null,13,"ion-item",[["class","item item-block"]],null,null,null,Yl.b,Yl.a)),S.Y(1,1097728,null,3,Zl.a,[kl.a,nl.a,S.j,S.z,[2,Il.a]],null,null),S._18(335544320,4,{contentLabel:0}),S._18(603979776,5,{_buttons:1}),S._18(603979776,6,{_icons:1}),S.Y(5,16384,null,0,xl.a,[],null,null),(l()(),S._20(-1,2,["\n        "])),(l()(),S.U(16777216,null,0,1,null,a)),S.Y(8,16384,null,0,jl.i,[S.I,S.F],{ngIf:[0,"ngIf"]},null),(l()(),S._20(-1,2,["\n\n        "])),(l()(),S.U(16777216,null,0,1,null,s)),S.Y(11,16384,null,0,jl.i,[S.I,S.F],{ngIf:[0,"ngIf"]},null),(l()(),S._20(12,2,["\n        ","\n        "])),(l()(),S._20(-1,2,["\n      "]))],function(l,n){l(n,8,0,n.context.$implicit.img);l(n,11,0,n.context.$implicit.icon)},function(l,n){l(n,12,0,n.context.$implicit.title)})}function c(l){return S._22(0,[(l()(),S.Z(0,0,null,null,17,"ion-item-group",[],null,null,null,null,null)),S.Y(1,16384,null,0,Cl.a,[],null,null),(l()(),S._20(-1,null,["\n\n    "])),(l()(),S.Z(3,0,null,null,6,"ion-item-divider",[["class","item item-divider"],["color","lightGray"]],null,null,null,Yl.b,Yl.a)),S.Y(4,1097728,null,3,Zl.a,[kl.a,nl.a,S.j,S.z,[2,Il.a]],{color:[0,"color"]},null),S._18(335544320,1,{contentLabel:0}),S._18(603979776,2,{_buttons:1}),S._18(603979776,3,{_icons:1}),S.Y(8,16384,null,0,Al.a,[nl.a,S.j,S.z],{color:[0,"color"]},null),(l()(),S._20(9,2,["",""])),(l()(),S._20(-1,null,["\n\n    "])),(l()(),S.Z(11,0,null,null,5,"ion-card-content",[],null,null,null,null,null)),S.Y(12,16384,null,0,fl.a,[nl.a,S.j,S.z],null,null),(l()(),S._20(-1,null,["\n      "])),(l()(),S.U(16777216,null,null,1,null,r)),S.Y(15,802816,null,0,jl.h,[S.I,S.F,S.p],{ngForOf:[0,"ngForOf"]},null),(l()(),S._20(-1,null,["\n    "])),(l()(),S._20(-1,null,["\n  "]))],function(l,n){var t=n.component;l(n,4,0,"lightGray");l(n,8,0,"lightGray");l(n,15,0,t.skills[n.context.$implicit])},function(l,n){l(n,9,0,n.context.$implicit)})}function p(l){return S._22(0,[S._13(0,F,[]),(l()(),S.Z(1,0,null,null,6,"app-collapse-card",[["icon","build"],["title","Skills"]],null,null,null,i,Dl)),S.Y(2,114688,null,0,C,[],{title:[0,"title"],icon:[1,"icon"]},null),(l()(),S._20(-1,0,["\n\n  "])),(l()(),S.U(16777216,null,0,2,null,c)),S.Y(5,802816,null,0,jl.h,[S.I,S.F,S.p],{ngForOf:[0,"ngForOf"]},null),S._15(6,1),(l()(),S._20(-1,0,["\n\n"])),(l()(),S._20(-1,null,["\n"]))],function(l,n){var t=n.component;l(n,2,0,"Skills","build");l(n,5,0,S._21(n,5,0,l(n,6,0,S._11(n,0),t.skills)))},null)}function d(l){return S._22(0,[(l()(),S.Z(0,0,null,null,22,"ion-item",[["class","item item-block"]],null,[[null,"click"]],function(l,n,t){var u=!0;if("click"===n){u=!1!==l.component.presentModal(l.context.$implicit)&&u}return u},Yl.b,Yl.a)),S.Y(1,1097728,null,3,Zl.a,[kl.a,nl.a,S.j,S.z,[2,Il.a]],null,null),S._18(335544320,1,{contentLabel:0}),S._18(603979776,2,{_buttons:1}),S._18(603979776,3,{_icons:1}),S.Y(5,16384,null,0,xl.a,[],null,null),(l()(),S._20(-1,2,["\n      "])),(l()(),S.Z(7,0,null,0,4,"ion-thumbnail",[["item-start",""]],null,null,null,null,null)),S.Y(8,16384,null,0,Ml.a,[],null,null),(l()(),S._20(-1,null,["\n        "])),(l()(),S.Z(10,0,null,null,0,"img",[],[[8,"src",4]],null,null,null,null)),(l()(),S._20(-1,null,["\n      "])),(l()(),S._20(-1,2,["\n      "])),(l()(),S.Z(13,0,null,2,1,"h2",[],null,null,null,null,null)),(l()(),S._20(14,null,["",""])),(l()(),S._20(-1,2,["\n      "])),(l()(),S.Z(16,0,null,2,1,"p",[],null,null,null,null,null)),(l()(),S._20(17,null,["",", "," • ",""])),(l()(),S._20(-1,2,["\n      "])),(l()(),S.Z(19,0,null,4,2,"button",[["clear",""],["color","secondary"],["ion-button",""],["item-end",""]],null,null,null,bl.b,bl.a)),S.Y(20,1097728,[[2,4]],0,vl.a,[[8,""],nl.a,S.j,S.z],{color:[0,"color"],clear:[1,"clear"]},null),(l()(),S._20(-1,0,["View"])),(l()(),S._20(-1,2,["\n    "]))],function(l,n){l(n,20,0,"secondary","")},function(l,n){l(n,10,0,n.context.$implicit.img);l(n,14,0,n.context.$implicit.title);l(n,17,0,n.context.$implicit.company,n.context.$implicit.location,n.context.$implicit.dates)})}function g(l){return S._22(0,[(l()(),S._20(-1,null,["\n\n"])),(l()(),S.Z(1,0,null,null,10,"app-collapse-card",[["icon","briefcase"],["title","Experience"]],null,null,null,i,Dl)),S.Y(2,114688,null,0,C,[],{title:[0,"title"],icon:[1,"icon"]},null),(l()(),S._20(-1,0,["\n\n  "])),(l()(),S._20(-1,0,["\n\n  "])),(l()(),S.Z(5,0,null,0,5,"ion-list",[],null,null,null,null,null)),S.Y(6,16384,null,0,zl.a,[nl.a,S.j,S.z,al.a,Fl.l,sl.a],null,null),(l()(),S._20(-1,null,["\n    "])),(l()(),S.U(16777216,null,null,1,null,d)),S.Y(9,802816,null,0,jl.h,[S.I,S.F,S.p],{ngForOf:[0,"ngForOf"]},null),(l()(),S._20(-1,null,["\n  "])),(l()(),S._20(-1,0,["\n\n"])),(l()(),S._20(-1,null,["\n"]))],function(l,n){var t=n.component;l(n,2,0,"Experience","briefcase");l(n,9,0,t.experience)},null)}function m(l){return S._22(0,[(l()(),S.Z(0,0,null,null,15,"button",[["class","item item-block"],["icon-start",""],["ion-item",""]],null,[[null,"click"]],function(l,n,t){var u=!0;if("click"===n){u=!1!==l.component.presentModal(l.context.$implicit)&&u}return u},Yl.b,Yl.a)),S.Y(1,1097728,null,3,Zl.a,[kl.a,nl.a,S.j,S.z,[2,Il.a]],null,null),S._18(335544320,1,{contentLabel:0}),S._18(603979776,2,{_buttons:1}),S._18(603979776,3,{_icons:1}),S.Y(5,16384,null,0,xl.a,[],null,null),(l()(),S._20(-1,2,["\n      "])),(l()(),S.Z(7,0,null,0,3,"ion-icon",[["item-start",""],["role","img"]],[[2,"hide",null]],null,null,null,null)),S.Y(8,278528,null,0,jl.l,[S.q,S.j,S.A],{ngStyle:[0,"ngStyle"]},null),S._14(9,{color:0}),S.Y(10,147456,[[3,4]],0,Sl.a,[nl.a,S.j,S.z],{name:[0,"name"]},null),(l()(),S._20(11,2,["\n      ","\n      "])),(l()(),S.Z(12,0,null,4,2,"ion-icon",[["item-end",""],["name","ios-arrow-forward"],["role","img"],["showWhen","android, core"]],[[2,"hide",null],[2,"hidden-show-when",null]],null,null,null,null)),S.Y(13,147456,[[3,4]],0,Sl.a,[nl.a,S.j,S.z],{name:[0,"name"]},null),S.Y(14,147456,null,0,Pl.a,[[8,"android, core"],al.a,S.u],null,null),(l()(),S._20(-1,2,["\n    "]))],function(l,n){l(n,8,0,l(n,9,0,n.context.$implicit.color));l(n,10,0,n.context.$implicit.icon);l(n,13,0,"ios-arrow-forward")},function(l,n){l(n,7,0,S._11(n,10)._hidden);l(n,11,0,n.context.$implicit.name);l(n,12,0,S._11(n,13)._hidden,!S._11(n,14).isMatch)})}function _(l){return S._22(0,[(l()(),S.Z(0,0,null,null,5,"ion-list",[],null,null,null,null,null)),S.Y(1,16384,null,0,zl.a,[nl.a,S.j,S.z,al.a,Fl.l,sl.a],null,null),(l()(),S._20(-1,null,["\n    "])),(l()(),S.U(16777216,null,null,1,null,m)),S.Y(4,802816,null,0,jl.h,[S.I,S.F,S.p],{ngForOf:[0,"ngForOf"]},null),(l()(),S._20(-1,null,["\n  "]))],function(l,n){l(n,4,0,n.component.projects)},null)}function f(l){return S._22(0,[(l()(),S.Z(0,0,null,null,15,"button",[["class","item item-block"],["icon-start",""],["ion-item",""]],null,[[null,"click"]],function(l,n,t){var u=!0;if("click"===n){u=!1!==l.component.presentModal(l.context.$implicit)&&u}return u},Yl.b,Yl.a)),S.Y(1,1097728,null,3,Zl.a,[kl.a,nl.a,S.j,S.z,[2,Il.a]],null,null),S._18(335544320,7,{contentLabel:0}),S._18(603979776,8,{_buttons:1}),S._18(603979776,9,{_icons:1}),S.Y(5,16384,null,0,xl.a,[],null,null),(l()(),S._20(-1,2,["\n      "])),(l()(),S.Z(7,0,null,0,3,"ion-icon",[["item-start",""],["role","img"]],[[2,"hide",null]],null,null,null,null)),S.Y(8,278528,null,0,jl.l,[S.q,S.j,S.A],{ngStyle:[0,"ngStyle"]},null),S._14(9,{color:0}),S.Y(10,147456,[[9,4]],0,Sl.a,[nl.a,S.j,S.z],{name:[0,"name"]},null),(l()(),S._20(11,2,["\n      ","\n      "])),(l()(),S.Z(12,0,null,4,2,"ion-icon",[["item-end",""],["name","ios-arrow-forward"],["role","img"],["showWhen","android, core"]],[[2,"hide",null],[2,"hidden-show-when",null]],null,null,null,null)),S.Y(13,147456,[[9,4]],0,Sl.a,[nl.a,S.j,S.z],{name:[0,"name"]},null),S.Y(14,147456,null,0,Pl.a,[[8,"android, core"],al.a,S.u],null,null),(l()(),S._20(-1,2,["\n    "]))],function(l,n){l(n,8,0,l(n,9,0,n.context.$implicit.color));l(n,10,0,n.context.$implicit.icon);l(n,13,0,"ios-arrow-forward")},function(l,n){l(n,7,0,S._11(n,10)._hidden);l(n,11,0,n.context.$implicit.name);l(n,12,0,S._11(n,13)._hidden,!S._11(n,14).isMatch)})}function h(l){return S._22(0,[(l()(),S.Z(0,0,null,null,20,"app-collapse-card",[["icon","build"],["title","Projects"]],null,null,null,i,Dl)),S.Y(1,114688,null,0,C,[],{title:[0,"title"],icon:[1,"icon"]},null),(l()(),S._20(-1,0,["\n\n  "])),(l()(),S.U(16777216,null,0,1,null,_)),S.Y(4,16384,null,0,jl.i,[S.I,S.F],{ngIf:[0,"ngIf"]},null),(l()(),S._20(-1,0,["\n\n\n  "])),(l()(),S.Z(6,0,null,0,6,"ion-item-divider",[["class","item item-divider"],["color","lightGray"]],null,null,null,Yl.b,Yl.a)),S.Y(7,1097728,null,3,Zl.a,[kl.a,nl.a,S.j,S.z,[2,Il.a]],{color:[0,"color"]},null),S._18(335544320,4,{contentLabel:0}),S._18(603979776,5,{_buttons:1}),S._18(603979776,6,{_icons:1}),S.Y(11,16384,null,0,Al.a,[nl.a,S.j,S.z],{color:[0,"color"]},null),(l()(),S._20(-1,2,["Other Projects"])),(l()(),S._20(-1,0,["\n\n  "])),(l()(),S.Z(14,0,null,0,5,"ion-list",[],null,null,null,null,null)),S.Y(15,16384,null,0,zl.a,[nl.a,S.j,S.z,al.a,Fl.l,sl.a],null,null),(l()(),S._20(-1,null,["\n    "])),(l()(),S.U(16777216,null,null,1,null,f)),S.Y(18,802816,null,0,jl.h,[S.I,S.F,S.p],{ngForOf:[0,"ngForOf"]},null),(l()(),S._20(-1,null,["\n  "])),(l()(),S._20(-1,0,["\n\n"])),(l()(),S._20(-1,null,["\n"]))],function(l,n){var t=n.component;l(n,1,0,"Projects","build");l(n,4,0,t.showProjects);l(n,7,0,"lightGray");l(n,11,0,"lightGray");l(n,18,0,t.otherProjects)},null)}function b(l){return S._22(0,[(l()(),S.Z(0,0,null,null,22,"ion-item",[["class","item item-block"]],null,[[null,"click"]],function(l,n,t){var u=!0;if("click"===n){u=!1!==l.component.presentModal(l.context.$implicit)&&u}return u},Yl.b,Yl.a)),S.Y(1,1097728,null,3,Zl.a,[kl.a,nl.a,S.j,S.z,[2,Il.a]],null,null),S._18(335544320,1,{contentLabel:0}),S._18(603979776,2,{_buttons:1}),S._18(603979776,3,{_icons:1}),S.Y(5,16384,null,0,xl.a,[],null,null),(l()(),S._20(-1,2,["\n      "])),(l()(),S.Z(7,0,null,0,4,"ion-thumbnail",[["item-start",""]],null,null,null,null,null)),S.Y(8,16384,null,0,Ml.a,[],null,null),(l()(),S._20(-1,null,["\n        "])),(l()(),S.Z(10,0,null,null,0,"img",[],[[8,"src",4]],null,null,null,null)),(l()(),S._20(-1,null,["\n      "])),(l()(),S._20(-1,2,["\n      "])),(l()(),S.Z(13,0,null,2,1,"h2",[],null,null,null,null,null)),(l()(),S._20(14,null,["",""])),(l()(),S._20(-1,2,["\n      "])),(l()(),S.Z(16,0,null,2,1,"p",[],null,null,null,null,null)),(l()(),S._20(17,null,["",", "," | ",""])),(l()(),S._20(-1,2,["\n      "])),(l()(),S.Z(19,0,null,4,2,"button",[["clear",""],["color","secondary"],["ion-button",""],["item-end",""]],null,null,null,bl.b,bl.a)),S.Y(20,1097728,[[2,4]],0,vl.a,[[8,""],nl.a,S.j,S.z],{color:[0,"color"],clear:[1,"clear"]},null),(l()(),S._20(-1,0,["View"])),(l()(),S._20(-1,2,["\n    "]))],function(l,n){l(n,20,0,"secondary","")},function(l,n){l(n,10,0,n.context.$implicit.img);l(n,14,0,n.context.$implicit.title);l(n,17,0,n.context.$implicit.company,n.context.$implicit.location,n.context.$implicit.dates)})}function v(l){return S._22(0,[(l()(),S.Z(0,0,null,null,9,"app-collapse-card",[["icon","school"],["title","Education"]],null,null,null,i,Dl)),S.Y(1,114688,null,0,C,[],{title:[0,"title"],icon:[1,"icon"]},null),(l()(),S._20(-1,0,["\n\n  "])),(l()(),S.Z(3,0,null,0,5,"ion-list",[],null,null,null,null,null)),S.Y(4,16384,null,0,zl.a,[nl.a,S.j,S.z,al.a,Fl.l,sl.a],null,null),(l()(),S._20(-1,null,["\n    "])),(l()(),S.U(16777216,null,null,1,null,b)),S.Y(7,802816,null,0,jl.h,[S.I,S.F,S.p],{ngForOf:[0,"ngForOf"]},null),(l()(),S._20(-1,null,["\n  "])),(l()(),S._20(-1,0,["\n\n"])),(l()(),S._20(-1,null,["\n"]))],function(l,n){var t=n.component;l(n,1,0,"Education","school");l(n,7,0,t.education)},null)}function y(l){return S._22(0,[(l()(),S.Z(0,0,null,null,22,"ion-item",[["class","item item-block"]],null,[[null,"click"]],function(l,n,t){var u=!0;if("click"===n){u=!1!==l.component.openLink(l.context.$implicit.url)&&u}return u},Yl.b,Yl.a)),S.Y(1,1097728,null,3,Zl.a,[kl.a,nl.a,S.j,S.z,[2,Il.a]],null,null),S._18(335544320,1,{contentLabel:0}),S._18(603979776,2,{_buttons:1}),S._18(603979776,3,{_icons:1}),S.Y(5,16384,null,0,xl.a,[],null,null),(l()(),S._20(-1,2,["\n      "])),(l()(),S.Z(7,0,null,0,4,"ion-thumbnail",[["item-start",""]],null,null,null,null,null)),S.Y(8,16384,null,0,Ml.a,[],null,null),(l()(),S._20(-1,null,["\n        "])),(l()(),S.Z(10,0,null,null,0,"img",[],[[8,"src",4]],null,null,null,null)),(l()(),S._20(-1,null,["\n      "])),(l()(),S._20(-1,2,["\n      "])),(l()(),S.Z(13,0,null,2,1,"h2",[],null,null,null,null,null)),(l()(),S._20(14,null,["",""])),(l()(),S._20(-1,2,["\n      "])),(l()(),S.Z(16,0,null,2,1,"p",[],null,null,null,null,null)),(l()(),S._20(17,null,["",""])),(l()(),S._20(-1,2,["\n      "])),(l()(),S.Z(19,0,null,4,2,"button",[["clear",""],["color","secondary"],["ion-button",""],["item-end",""]],null,null,null,bl.b,bl.a)),S.Y(20,1097728,[[2,4]],0,vl.a,[[8,""],nl.a,S.j,S.z],{color:[0,"color"],clear:[1,"clear"]},null),(l()(),S._20(-1,0,["see course"])),(l()(),S._20(-1,2,["\n    "]))],function(l,n){l(n,20,0,"secondary","")},function(l,n){l(n,10,0,n.context.$implicit.img);l(n,14,0,n.context.$implicit.title);l(n,17,0,n.context.$implicit.dates)})}function w(l){return S._22(0,[(l()(),S.Z(0,0,null,null,9,"app-collapse-card",[["icon","school"],["title","Courses"]],null,null,null,i,Dl)),S.Y(1,114688,null,0,C,[],{title:[0,"title"],icon:[1,"icon"]},null),(l()(),S._20(-1,0,["\n\n  "])),(l()(),S.Z(3,0,null,0,5,"ion-list",[],null,null,null,null,null)),S.Y(4,16384,null,0,zl.a,[nl.a,S.j,S.z,al.a,Fl.l,sl.a],null,null),(l()(),S._20(-1,null,["\n    "])),(l()(),S.U(16777216,null,null,1,null,y)),S.Y(7,802816,null,0,jl.h,[S.I,S.F,S.p],{ngForOf:[0,"ngForOf"]},null),(l()(),S._20(-1,null,["\n  "])),(l()(),S._20(-1,0,["\n\n"])),(l()(),S._20(-1,null,["\n"]))],function(l,n){var t=n.component;l(n,1,0,"Courses","school");l(n,7,0,t.courses)},null)}function j(l){return S._22(0,[(l()(),S.Z(0,0,null,null,5,"ion-header",[],null,null,null,null,null)),S.Y(1,16384,null,0,ll.a,[nl.a,S.j,S.z,[2,tl.a]],null,null),(l()(),S._20(-1,null,["\n  "])),(l()(),S.Z(3,0,null,null,1,"app-navbar",[["text","Joseph Davies"]],null,null,null,ul.b,ul.a)),S.Y(4,114688,null,0,el.a,[],{text:[0,"text"]},null),(l()(),S._20(-1,null,["\n"])),(l()(),S._20(-1,null,["\n\n"])),(l()(),S.Z(7,0,null,null,70,"ion-content",[["class","mainContainer"]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,ol.b,ol.a)),S.Y(8,4374528,null,0,il.a,[nl.a,al.a,sl.a,S.j,S.z,rl.a,cl.a,S.u,[2,tl.a],[2,pl.a]],null,null),(l()(),S._20(-1,1,["\n  "])),(l()(),S.Z(10,0,null,1,66,"ion-grid",[["class","grid"],["fixed",""],["no-padding",""]],null,null,null,null,null)),S.Y(11,16384,null,0,dl.a,[],null,null),(l()(),S._20(-1,null,["\n    "])),(l()(),S.Z(13,0,null,null,62,"ion-row",[["class","row"]],null,null,null,null,null)),S.Y(14,16384,null,0,gl.a,[],null,null),(l()(),S._20(-1,null,["\n\n      "])),(l()(),S.Z(16,0,null,null,20,"ion-col",[["class","left-panel col"],["col-lg-4",""],["col-md-4",""]],null,null,null,null,null)),S.Y(17,16384,null,0,ml.a,[],null,null),(l()(),S._20(-1,null,["\n\n        "])),(l()(),S.Z(19,0,null,null,16,"ion-row",[["class","row"]],null,null,null,null,null)),S.Y(20,16384,null,0,gl.a,[],null,null),(l()(),S._20(-1,null,["\n\n          "])),(l()(),S.Z(22,0,null,null,5,"ion-col",[["class","col"],["col-12",""]],null,null,null,null,null)),S.Y(23,16384,null,0,ml.a,[],null,null),(l()(),S._20(-1,null,["\n            "])),(l()(),S.Z(25,0,null,null,1,"app-avatar",[],null,null,null,u,yl)),S.Y(26,114688,null,0,Z,[],null,null),(l()(),S._20(-1,null,["\n          "])),(l()(),S._20(-1,null,["\n\n          "])),(l()(),S.Z(29,0,null,null,5,"ion-col",[["class","col"],["col-12",""]],null,null,null,null,null)),S.Y(30,16384,null,0,ml.a,[],null,null),(l()(),S._20(-1,null,["\n            "])),(l()(),S.Z(32,0,null,null,1,"app-skills",[],null,null,null,p,Gl)),S.Y(33,49152,null,0,z,[],null,null),(l()(),S._20(-1,null,["\n          "])),(l()(),S._20(-1,null,["\n\n        "])),(l()(),S._20(-1,null,["\n\n      "])),(l()(),S._20(-1,null,["\n\n      "])),(l()(),S.Z(38,0,null,null,36,"ion-col",[["class","main-panel col"],["col-lg-8",""],["col-md-8",""]],null,null,null,null,null)),S.Y(39,16384,null,0,ml.a,[],null,null),(l()(),S._20(-1,null,["\n\n        "])),(l()(),S.Z(41,0,null,null,32,"ion-row",[["class","row"]],null,null,null,null,null)),S.Y(42,16384,null,0,gl.a,[],null,null),(l()(),S._20(-1,null,["\n\n          "])),(l()(),S.Z(44,0,null,null,5,"ion-col",[["class","col"],["col-12",""]],null,null,null,null,null)),S.Y(45,16384,null,0,ml.a,[],null,null),(l()(),S._20(-1,null,["\n            "])),(l()(),S.Z(47,0,null,null,1,"app-experience",[],null,null,null,g,Ol)),S.Y(48,114688,null,0,x,[El.a],null,null),(l()(),S._20(-1,null,["\n          "])),(l()(),S._20(-1,null,["\n\n          "])),(l()(),S.Z(51,0,null,null,5,"ion-col",[["class","col"],["col-12",""]],null,null,null,null,null)),S.Y(52,16384,null,0,ml.a,[],null,null),(l()(),S._20(-1,null,["\n            "])),(l()(),S.Z(54,0,null,null,1,"app-projects",[],null,null,null,h,Tl)),S.Y(55,49152,null,0,P,[El.a],null,null),(l()(),S._20(-1,null,["\n          "])),(l()(),S._20(-1,null,["\n\n          "])),(l()(),S.Z(58,0,null,null,6,"ion-col",[["class","col"],["col-12",""]],null,null,null,null,null)),S.Y(59,16384,null,0,ml.a,[],null,null),(l()(),S._20(-1,null,["\n            "])),(l()(),S._20(-1,null,["\n            "])),(l()(),S.Z(62,0,null,null,1,"app-education",[],null,null,null,v,Ll)),S.Y(63,114688,null,0,G,[El.a],null,null),(l()(),S._20(-1,null,["\n          "])),(l()(),S._20(-1,null,["\n\n          "])),(l()(),S.Z(66,0,null,null,6,"ion-col",[["class","col"],["col-12",""]],null,null,null,null,null)),S.Y(67,16384,null,0,ml.a,[],null,null),(l()(),S._20(-1,null,["\n            "])),(l()(),S._20(-1,null,["\n            "])),(l()(),S.Z(70,0,null,null,1,"app-courses",[],null,null,null,w,$l)),S.Y(71,49152,null,0,B,[],null,null),(l()(),S._20(-1,null,["\n          "])),(l()(),S._20(-1,null,["\n\n        "])),(l()(),S._20(-1,null,["\n\n      "])),(l()(),S._20(-1,null,["\n    "])),(l()(),S._20(-1,null,["\n\n  "])),(l()(),S._20(-1,1,["\n"])),(l()(),S._20(-1,null,["\n"]))],function(l,n){l(n,4,0,"Joseph Davies"),l(n,26,0),l(n,48,0),l(n,63,0)},function(l,n){l(n,7,0,S._11(n,8).statusbarPadding,S._11(n,8)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var S=t(0),Y=(t(5),t(46),function(){return function(l){this.navCtrl=l,this.experience={},this.skills={},this.education={},this.experience={headers:["Job Title","Company","Dates","Location"],title:"Experience",tableData:[{row:["COTESA","Web GIS Developer","05/2017 - Present","Madrid"],modalData:["Developing responsive web applications using Angular6, Ionic, OpenLayers, ESRI's Javascript API, Dojo, Bootstrap, HTML5 and CSS3.","Carrying out version control of Git repositories, including Git - Flow.","Managing web GIS infrastructure and geospatial data across ArcGIS Server, Portal and Web AppBuilder.","Creating and publishing geoprocessing services to ArcGIS Server."]},{row:["WebPac","Executive Assistant","05/2016 - 09/2016","Madrid"],modalData:["stuff"]}]},this.education={headers:["Organisation","Degree Title","Dates","Location"],title:"Education",tableData:[{row:["ESRI Spain","Geographic Information Systems MSc","09/2016 - 07/2017","Madrid"],modalData:[""]},{row:["University of Exeter","Geography BSc","09/2011 - 09/2015","Madrid"],modalData:[""]}]},this.skills={Frontend:[{name:"Dojo",img:""},{name:"Angular 6",img:""},{name:"Ionic",img:""},{name:"Bootstrap",img:""},{name:"SASS",img:""},{name:"OpenLayers",img:""},{name:"ArcGIS Javascript API",img:""},{name:"D3.js",img:""}],"Server-Side":[{name:"Node.js",img:""},{name:"Express.js",img:""}],Databases:[{name:"MongoDB",img:""},{name:"Oracle",img:""},{name:"SQL Server",img:""},{name:"Postgre SQL",img:""}],"Other Tools":[{name:"Git / Git-Flow",img:""},{name:"ArcGIS Server",img:""},{name:"SVN",img:""},{name:"Postgre SQL",img:""}]}}}()),Z=function(){function l(){this.summary="I enjoy developing responsive web applications that help derive meaningful insight from geospatial data. I'm passionate about maps and I specialise in the development of web geographic information systems and location intelligence.",this.summary2="I was the main developer of the accesibility management system and accesible route planner for people with disabilities in Sevilla, as part of the Sevilla Smart City initiative",this.count={years:1,months:9,projects:5,languages:2}}return l.prototype.ngOnInit=function(){this.calculateMonthDiff(new Date(2017,2,1),new Date)},l.prototype.calculateMonthDiff=function(l,n){var t=n.getFullYear()-l.getFullYear(),u=n.getMonth()-l.getMonth();u<0&&(t--,u+=12),this.count.years=t,this.count.months=u},l}(),k=function(){return function(){}}(),I=t(82),x=function(){function l(l){this.modalCtrl=l,this.experience=[],this.showExperience=!0,this.experience=[{company:"COTESA",title:"Web Developer",dates:"01/2018 - Present",listTitle:"Responsibilities",list:["Developing responsive web applications using Angular6, Ionic, OpenLayers, ESRI's Javascript API, Dojo, Bootstrap, HTML5 and CSS3.","Carrying out version control of Git repositories, including Git - Flow.","Managing web GIS infrastructure and geospatial data across ArcGIS Server, Portal and Web AppBuilder.","Creating and publishing geoprocessing services to ArcGIS Server."],img:"assets/imgs/cotesa.png",location:"Madrid",url:"https://www.grupotecopy.es/es/"},{company:"COTESA",title:"Junior Front-End Developer",dates:"04/2017 - 01/2018",listTitle:"Responsibilities",list:["Developing responsive web applications using Angular6, Ionic, OpenLayers, ESRI's Javascript API, Dojo, Bootstrap, HTML5 and CSS3.","Carrying out version control of Git repositories, including Git - Flow.","Managing web GIS infrastructure and geospatial data across ArcGIS Server, Portal and Web AppBuilder.","Creating and publishing geoprocessing services to ArcGIS Server."],img:"assets/imgs/cotesa.png",location:"Madrid",url:"https://www.grupotecopy.es/es/"},{company:"WebPac",title:"Executive Assistant",dates:"05/2016 - 09/2016",listTitle:"Responsibilities",list:["Sourcing new member suppliers and facilitating the creation of their Portals.","Contacting buyers in order to fulfill their requests for quote(RFQ).","Building and designing portals for clients using html, from which they could independently create and manage their own requests."],img:"assets/imgs/webpac.png",location:"Madrid",url:"https://www.webpac.com/"}]}return l.prototype.toggleVisibility=function(){this.showExperience=!this.showExperience},l.prototype.ngOnInit=function(){360===window.screen.width&&(this.mobile=!0)},l.prototype.presentModal=function(l){this.modalCtrl.create(I.a,{data:l}).present()},l}(),C=(t(89),function(){function l(){this.loadingIndicator=!1,this.infoIcon="",this.color="dark",this.textColor="inverse_text",this.isCollapse=!1}return l.prototype.ngOnInit=function(){this.state=this.isCollapse?"collapsed":"expanded"},l.prototype.toggleCollapse=function(){this.state="collapsed"===this.state?"expanded":"collapsed"},l}()),A=function(){return function(){}}(),D=function(){return function(){}}(),G=function(){function l(l){this.modalCtrl=l,this.education=[],this.courses=[],this.showEducation=!0,this.education=[{company:"ESRI Spain",title:"Geographic Information Systems MSc",dates:"2016 - 2017",img:"assets/imgs/esri.png",description:"",listTitle:"Topics Covered",list:["GIS applied to economic sectors","Geospatial Analysis","Deployment of GIS architecture","Treatment and storage of GIS data","Task Automation","Web Application Development"],location:"Madrid",topics:!0},{type:"education",company:"University of Exeter",title:"Geography BSc (Hons)",dates:"2011 - 2015",img:"assets/imgs/exeter.png",description:"",listTitle:"Topics Covered",list:["GIS & Geospatial Analysis","Climate Science","Geopolitics & International Relations","Cryosphere & Glaciology","Remote Sensing","Fluvial Geomorphology"],location:"Exeter",topics:!0}]}return l.prototype.ngOnInit=function(){},l.prototype.toggleVisibility=function(){this.showEducation=!this.showEducation},l.prototype.presentModal=function(l){this.modalCtrl.create("ModalPage",{data:l}).present()},l}(),M=function(){return function(){}}(),z=function(){function l(){this.skills={},this.showSkills=!0,this.skills={Frontend:[{title:"Angular",icon:"logo-angular",url:"https://angular.io/",color:"#E63135"},{title:"CSS3",icon:"logo-css3",url:"https://en.wikipedia.org/wiki/Cascading_Style_Sheets",color:"#0CA9EA"},{title:"HTML5",icon:"logo-html5",url:"https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5",color:"#F46529"},{title:"JavaScript",icon:"logo-javascript",url:"https://en.wikipedia.org/wiki/JavaScript",color:"#FFD439"},{title:"Sass",icon:"logo-sass",url:"https://sass-lang.com/",color:"#CE6296"},{title:"Dojo Toolkit",img:"assets/imgs/skills/dojo.png",url:"https://dojo.io/",color:"#3575AC"},{title:"Ionic",icon:"ionic",url:"https://ionicframework.com",color:"#219DFF"},{title:"ArcGIS Javascript API",icon:"globe",url:"https://developers.arcgis.com/javascript/",color:"#00AB44"},{title:"OpenLayers",icon:"logo-buffer",url:"https://openlayers.org/",color:"#53C5D5"},{title:"Leaflet",img:"assets/imgs/skills/leaflet.png",url:"https://leafletjs.com",color:"#53C5D5"},{title:"D3.js",img:"assets/imgs/skills/d3.png",url:"https://d3js.org/",color:"#3575AC"},{title:"Bootstrap",img:"assets/imgs/skills/bootstrap.png",url:"http://getbootstrap.com/",color:"#563D7C"}],"Server-Side":[{title:"NodeJS",icon:"logo-nodejs",url:"https://nodejs.org/en/",color:"#78BD43"},{title:"Express.js",icon:"logo-nodejs",url:"http://getbootstrap.com/",color:"#563D7C"}],Databases:[{title:"MongoDB",img:"assets/imgs/skills/mongo.png",url:"http://getbootstrap.com/",color:"#563D7C"},{title:"Oracle",img:"assets/imgs/skills/sqlserver.png",url:"http://getbootstrap.com/",color:"#563D7C"},{title:"Postgre SQL",img:"assets/imgs/skills/postgre.png",url:"http://getbootstrap.com/",color:"#563D7C"},{title:"SQL Server (eugh)",img:"assets/imgs/skills/sql.png",url:"http://getbootstrap.com/",color:"#563D7C"}],"Other Tools":[{title:"Git / Git-Flow",icon:"git-branch",url:"http://getbootstrap.com/",color:"black"},{title:"ArcGIS Server",img:"assets/imgs/skills/arcgis.png",url:"http://getbootstrap.com/",color:"#563D7C"},{title:"SVN",img:"assets/imgs/skills/svn.png",url:"http://getbootstrap.com/",color:"#563D7C"},{title:"Chrome DevTools",img:"assets/imgs/skills/devtools.png",url:"http://getbootstrap.com/",color:"#563D7C"}]}}return l.prototype.toggleVisibility=function(){this.showSkills=!this.showSkills},l.prototype.openSkillLink=function(l){null!==l&&document.getElementById(l).click()},l}(),F=function(){function l(){}return l.prototype.transform=function(l,n){return void 0===n&&(n=null),Object.keys(l)},l}(),E=function(){return function(){}}(),O=function(){return function(){}}(),P=function(){function l(l){this.modalCtrl=l,this.projects=[],this.otherProjects=[],this.showProjects=!0,this.projects=[{name:"Sevilla Smart City",title:"Sevilla Smart City - Gestor de Accesibilidad",icon:"pin",url:"https://www.esmartcity.es/videoteca/ponencia-gestor-accesibilidad-peatonal-urbana-planificador-viajes-accesibles",description:"Pedestrian Accesibility Management Platform and Accesible Route Planner - A web GIS application designed to enable the local government of Sevilla to manage their urban infrastructure through spatial analysis. It allows the user to calculate appropriate routes for people with different disabilities and monitor the accesibility of different areas.<br><br> Users with admin privileges are able to edit, create, delete and save records and also adjust the parameters used in the web services which determine the accesibility bands for each disability.",color:"",article:"http://www.esri.es/gestor-movilidad-accesible-sevilla/",img:"assets/imgs/projects/sevilla.png",screenshots:["assets/imgs/projects/barrerasRutas.png","assets/imgs/projects/sevilla1.png","assets/imgs/projects/sevillaTematico.png","assets/imgs/projects/sevillaHeatMap.png","assets/imgs/projects/sevillaServiceArea.png","assets/imgs/projects/informe.png"],id:"project3",listTitle:"Responsibilities",list:["Develop web application for the management of pedestrian accesibility","Carry out version control using Git","Build services in ArcGIS server","Manage geospatial data"]},{name:"Ayuntamiento A Coruña",title:"Visor PGOM",icon:"pin",color:"",description:"A responsive web application was developed in order to facilitate the exploitation and management of georeferenced data belonging to the council of A Coruña.",img:"assets/imgs/projects/pgom.png",screenshots:["assets/imgs/projects/pgom_screenshot.png","assets/imgs/projects/planeamiento.png"],id:"project1",listTitle:"Features",list:["Slider used to scroll through a temporal archive of satellite imagery","Land registry identification tool","advanced report printing tools","Add local data tool","Geospatial data download tool for public use"]},{name:"IDEEX",title:"Infraestructura de Datos Espaciales de Extremadura",icon:"pin",description:"A geospatial web platform was developed to facilitate the management and querying of georeferenced data. The map viewer was designed and built using Angular 6 and Ionic 3 in order to ensure that the application was responsive.",color:"",img:"assets/imgs/projects/IDEEX.png",id:"project2",listTitle:"Responsibilities",list:["Build geospatial tools and components using OpenLayers","Build components for an administration page to allow the user to save, delete and edit configurations of maps, layers, permissions and tools","Design a component that allows the user to upload/remove documents from their saved session","Implement directive for multi-language JSON","Carry out version control using GitFlow"]},{name:"AgroSeguro",title:"Coorporate GIS platform",icon:"pin",description:"This web GIS application, based on the ArcGIS Javascript API, allows the user to query appraisal data. Custom tools enable staff to find spatial patterns by dynamically applying renderers, generating reports, identifying records and exporting data to CSV or KML formats.",color:"",img:"assets/imgs/projects/agroseguro.png",id:"project2",listTitle:"Capabilities",screenshots:["assets/imgs/projects/agroseguro1.png","assets/imgs/projects/agroseguro2.png"],list:["Query large data sets and visualize point data through user-defined symbologies","Generate dynamic PDF reports using Javascript","Cluster point data returned by large queries (up to 50,000 records)","Apply dynamic scales for visualizing point and polygon data effectivley","Apply geographic filters to SQL queries used for data visualization, exportation and report generation"]}],this.otherProjects=[{name:"Missing Maps Project",title:"Volunteer Mapper - British Red Cross Missing Maps Project.",url:"http://www.missingmaps.org/",icon:"pin",description:"The Missing Maps project is one of the largest digital humanitarian efforts in history.<br><br> It is a collaboration between the Red Cross and Médecins Sans Frontières/Doctors Without Borders (MSF) which aims to produce open source digital maps of unmapped and vulnerable regions.",color:"",id:"project4",img:"assets/imgs/projects/mm.png"},{name:"Remote Sensing of Tidewater Glaciers",title:"Undergraduate dissertation: Remote Sensing of five tidewater glaciers along the Oates Coast, East Antarctica",icon:"pin",color:"",img:"assets/imgs/projects/exeter.png",imgHeight:"100px",doc:"assets/docs/dissertation.pdf",id:"project5"}]}return l.prototype.toggleVisibility=function(){this.showProjects=!this.showProjects},l.prototype.presentModal=function(l){this.modalCtrl.create(I.a,{data:l}).present()},l.prototype.openProjectLink=function(l){},l}(),T=function(){return function(){}}(),L=function(){return function(){}}(),$=t(245),B=function(){function l(){this.courses=[],this.courses=[{title:"Angular: De cero a experto creando aplicaciones (Angular 7+)",dates:"2018",description:"https://www.udemy.com/angular-2-fernando-herrera/learn/v4/overview",url:"",img:"assets/imgs/education/angular.jpg"},{title:"Angular & NodeJS - The MEAN Stack Guide",dates:"2018",description:"",url:"https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/learn/v4/overview",img:"assets/imgs/education/MEAN.jpg"}]}return l.prototype.openLink=function(l){window.open(l,"_blank")},l}(),R=function(){return function(){}}(),q=function(){return function(){}}(),J=t(189),U=t(190),W=t(191),V=t(192),X=t(193),H=t(194),N=t(195),Q=t(196),K=t(197),ll=t(76),nl=t(1),tl=t(4),ul=t(247),el=t(244),ol=t(199),il=t(21),al=t(3),sl=t(8),rl=t(9),cl=t(24),pl=t(19),dl=t(78),gl=t(79),ml=t(125),_l=t(83),fl=t(84),hl=t(41),bl=t(38),vl=t(20),yl=S.X({encapsulation:2,styles:[],data:{}}),wl=t(133),jl=t(11),Sl=t(37),Yl=t(123),Zl=t(16),kl=t(13),Il=t(39),xl=t(55),Cl=t(135),Al=t(128),Dl=S.X({encapsulation:2,styles:[],data:{animation:[{type:7,name:"collapseTrigger",definitions:[{type:0,name:"collapsed",styles:{type:6,styles:{opacity:0,height:0,padding:0},offset:null},options:void 0},{type:0,name:"expanded",styles:{type:6,styles:{opacity:1},offset:null},options:void 0},{type:1,expr:"* => *",animation:{type:4,styles:null,timings:".3s ease-in"},options:null}],options:{}}]}}),Gl=S.X({encapsulation:2,styles:[],data:{}}),Ml=t(127),zl=t(47),Fl=t(6),El=t(77),Ol=S.X({encapsulation:2,styles:[],data:{}}),Pl=t(87),Tl=S.X({encapsulation:2,styles:[],data:{}}),Ll=S.X({encapsulation:2,styles:[],data:{}}),$l=S.X({encapsulation:2,styles:[],data:{}}),Bl=S.X({encapsulation:2,styles:[],data:{}}),Rl=S.V("page-home",Y,function(l){return S._22(0,[(l()(),S.Z(0,0,null,null,1,"page-home",[],null,null,null,j,Bl)),S.Y(1,49152,null,0,Y,[pl.a],null,null)],null,null)},{},{},[]),ql=t(18),Jl=t(124),Ul=t(40);t.d(n,"HomePageModuleNgFactory",function(){return Wl});var Wl=S.W(q,[],function(l){return S._7([S._8(512,S.i,S.S,[[8,[J.a,U.a,W.a,V.a,X.a,H.a,N.a,Q.a,K.a,Rl]],[3,S.i],S.s]),S._8(4608,jl.k,jl.j,[S.r,[2,jl.s]]),S._8(4608,ql.k,ql.k,[]),S._8(4608,ql.c,ql.c,[]),S._8(512,jl.b,jl.b,[]),S._8(512,ql.j,ql.j,[]),S._8(512,ql.d,ql.d,[]),S._8(512,ql.i,ql.i,[]),S._8(512,Jl.a,Jl.a,[]),S._8(512,Jl.b,Jl.b,[]),S._8(512,k,k,[]),S._8(512,A,A,[]),S._8(512,D,D,[]),S._8(512,M,M,[]),S._8(512,E,E,[]),S._8(512,O,O,[]),S._8(512,T,T,[]),S._8(512,L,L,[]),S._8(512,$.a,$.a,[]),S._8(512,R,R,[]),S._8(512,q,q,[]),S._8(256,Ul.a,Y,[])])})},244:function(l,n,t){"use strict";t.d(n,"a",function(){return u});t(5);var u=function(){function l(){}return l.prototype.ngOnInit=function(){this.title=this.text},l}()},245:function(l,n,t){"use strict";t.d(n,"a",function(){return u});t(5),t(46);var u=function(){return function(){}}()},246:function(l,n,t){"use strict";function u(l){return e._22(0,[(l()(),e.Z(0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),e.Y(1,278528,null,0,o.g,[e.p,e.q,e.j,e.A],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),e.Z(2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,t){var u=!0;if("click"===n){u=!1!==l.component.backButtonClick(t)&&u}return u},i.b,i.a)),e.Y(3,278528,null,0,o.g,[e.p,e.q,e.j,e.A],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),e.Y(4,1097728,null,0,a.a,[[8,"bar-button"],s.a,e.j,e.z],null,null),(l()(),e.Z(5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),e.Y(6,278528,null,0,o.g,[e.p,e.q,e.j,e.A],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),e.Y(7,147456,null,0,r.a,[s.a,e.j,e.z],{name:[0,"name"]},null),(l()(),e.Z(8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),e.Y(9,278528,null,0,o.g,[e.p,e.q,e.j,e.A],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),e._20(10,null,["",""])),e._10(null,0),e._10(null,1),e._10(null,2),(l()(),e.Z(14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),e.Y(15,278528,null,0,o.g,[e.p,e.q,e.j,e.A],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),e._10(null,3)],function(l,n){var t=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+t._mode);l(n,3,0,"back-button","back-button-"+t._mode);l(n,6,0,"back-button-icon","back-button-icon-"+t._mode);l(n,7,0,t._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+t._mode);l(n,15,0,"toolbar-content","toolbar-content-"+t._mode)},function(l,n){var t=n.component;l(n,2,0,t._hideBb);l(n,5,0,e._11(n,7)._hidden);l(n,10,0,t._backText)})}t.d(n,"a",function(){return c}),n.b=u;var e=t(0),o=t(11),i=t(38),a=t(20),s=t(1),r=t(37),c=(t(4),t(19),e.X({encapsulation:2,styles:[],data:{}}))},247:function(l,n,t){"use strict";function u(l){return e._22(0,[(l()(),e.Z(0,0,null,null,21,"ion-navbar",[["class","toolbar"],["color","dark"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,o.b,o.a)),e.Y(1,49152,null,0,i.a,[a.a,[2,s.a],[2,r.a],c.a,e.j,e.z],{color:[0,"color"]},null),(l()(),e._20(-1,3,["\n  "])),(l()(),e.Z(3,0,null,0,13,"ion-buttons",[["left",""]],null,null,null,null,null)),e.Y(4,16384,null,1,p.a,[c.a,e.j,e.z,[2,d.a],[2,i.a]],null,null),e._18(603979776,1,{_buttons:1}),(l()(),e._20(-1,null,["\n    "])),(l()(),e.Z(7,0,null,null,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,t){var u=!0;if("click"===n){u=!1!==e._11(l,9).toggle()&&u}return u},g.b,g.a)),e.Y(8,1097728,[[2,4],[1,4]],0,m.a,[[8,""],c.a,e.j,e.z],null,null),e.Y(9,1064960,null,0,_.a,[f.a,[2,s.a],[2,m.a],[2,i.a]],{menuToggle:[0,"menuToggle"]},null),e.Y(10,16384,null,1,p.a,[c.a,e.j,e.z,[2,d.a],[2,i.a]],null,null),e._18(603979776,2,{_buttons:1}),(l()(),e._20(-1,0,["\n      "])),(l()(),e.Z(13,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),e.Y(14,147456,null,0,h.a,[c.a,e.j,e.z],{name:[0,"name"]},null),(l()(),e._20(-1,0,["\n    "])),(l()(),e._20(-1,null,["\n  "])),(l()(),e._20(-1,3,["\n  "])),(l()(),e.Z(18,0,null,3,2,"ion-title",[],null,null,null,b.b,b.a)),e.Y(19,49152,null,0,v.a,[c.a,e.j,e.z,[2,d.a],[2,i.a]],null,null),(l()(),e._20(20,0,["",""])),(l()(),e._20(-1,3,["\n"])),(l()(),e._20(-1,null,["\n"]))],function(l,n){l(n,1,0,"dark");l(n,9,0,"");l(n,14,0,"menu")},function(l,n){var t=n.component;l(n,0,0,e._11(n,1)._hidden,e._11(n,1)._sbPadding);l(n,7,0,e._11(n,9).isHidden);l(n,13,0,e._11(n,14)._hidden);l(n,20,0,t.text)})}t.d(n,"a",function(){return y}),n.b=u;var e=t(0),o=t(246),i=t(32),a=t(9),s=t(4),r=t(19),c=t(1),p=t(80),d=t(34),g=t(38),m=t(20),_=t(126),f=t(25),h=t(37),b=t(198),v=t(56),y=e.X({encapsulation:2,styles:[],data:{}})}});
+webpackJsonp([0],{
+
+/***/ 273:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "HomePageModule", function() { return HomePageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__home__ = __webpack_require__(281);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_avatar_avatar_module__ = __webpack_require__(282);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_experience_experience_module__ = __webpack_require__(284);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_education_education_module__ = __webpack_require__(287);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_skills_skills_module__ = __webpack_require__(289);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_projects_projects_module__ = __webpack_require__(293);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__components_interests_interests_module__ = __webpack_require__(295);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_navbar_navbar_module__ = __webpack_require__(278);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__components_courses_courses_module__ = __webpack_require__(297);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+
+
+
+
+var HomePageModule = /** @class */ (function () {
+    function HomePageModule() {
+    }
+    HomePageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__home__["a" /* HomePage */]
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__home__["a" /* HomePage */]),
+                __WEBPACK_IMPORTED_MODULE_3__components_avatar_avatar_module__["a" /* AvatarModule */],
+                __WEBPACK_IMPORTED_MODULE_4__components_experience_experience_module__["a" /* ExperienceModule */],
+                __WEBPACK_IMPORTED_MODULE_5__components_education_education_module__["a" /* EducationModule */],
+                __WEBPACK_IMPORTED_MODULE_6__components_skills_skills_module__["a" /* SkillsModule */],
+                __WEBPACK_IMPORTED_MODULE_7__components_projects_projects_module__["a" /* ProjectsModule */],
+                __WEBPACK_IMPORTED_MODULE_8__components_interests_interests_module__["a" /* InterestsModule */],
+                __WEBPACK_IMPORTED_MODULE_9__components_navbar_navbar_module__["a" /* NavbarModule */],
+                __WEBPACK_IMPORTED_MODULE_10__components_courses_courses_module__["a" /* CoursesModule */],
+                __WEBPACK_IMPORTED_MODULE_8__components_interests_interests_module__["a" /* InterestsModule */]
+            ],
+        })
+    ], HomePageModule);
+    return HomePageModule;
+}());
+
+//# sourceMappingURL=home.module.js.map
+
+/***/ }),
+
+/***/ 277:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CollapseCardModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__collapse_card_component__ = __webpack_require__(286);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var CollapseCardModule = /** @class */ (function () {
+    function CollapseCardModule() {
+    }
+    CollapseCardModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__collapse_card_component__["a" /* CollapseCardComponent */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* IonicModule */],
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__collapse_card_component__["a" /* CollapseCardComponent */]
+            ]
+        })
+    ], CollapseCardModule);
+    return CollapseCardModule;
+}());
+
+//# sourceMappingURL=collapse-card.module.js.map
+
+/***/ }),
+
+/***/ 278:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NavbarModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__navbar__ = __webpack_require__(279);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var NavbarModule = /** @class */ (function () {
+    function NavbarModule() {
+    }
+    NavbarModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__navbar__["a" /* NavbarComponent */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* IonicModule */],
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__navbar__["a" /* NavbarComponent */]
+            ]
+        })
+    ], NavbarModule);
+    return NavbarModule;
+}());
+
+//# sourceMappingURL=navbar.module.js.map
+
+/***/ }),
+
+/***/ 279:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NavbarComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+/**
+ * Generated class for the NavbarComponent component.
+ *
+ * See https://angular.io/api/core/Component for more info on Angular
+ * Components.
+ */
+var NavbarComponent = /** @class */ (function () {
+    function NavbarComponent() {
+    }
+    NavbarComponent.prototype.ngOnInit = function () {
+        this.title = this.text;
+    };
+    NavbarComponent.prototype.openLink = function (url) {
+        var redirectWindow = window.open(url, '_blank');
+        redirectWindow.location;
+    };
+    NavbarComponent.prototype.callNumber = function () {
+        window.open("tel:" + "0034674140517");
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Input */])(),
+        __metadata("design:type", String)
+    ], NavbarComponent.prototype, "text", void 0);
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Input */])(),
+        __metadata("design:type", String)
+    ], NavbarComponent.prototype, "showIcons", void 0);
+    NavbarComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'app-navbar',template:/*ion-inline-start:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\navbar\navbar.html"*/'<ion-navbar color="dark">\n  <ion-buttons left>\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n  </ion-buttons>\n  <ion-title>{{text}}</ion-title>\n  <div showWhen="core">\n    <ion-buttons right *ngIf="showIcons">\n      <button ion-button icon-only (click)=\'openLink("https://www.linkedin.com/in/joewdavies/")\' class="contactItem">\n        <ion-icon title="Linkedin" name="logo-linkedin" class="contactIcons" item-start></ion-icon>\n      </button>\n      <button ion-button icon-only (click)=\'openLink("https://www.github.com/joewdavies/")\' class="contactItem">\n        <ion-icon title="Github" name="logo-github" class="contactIcons" item-start></ion-icon>\n      </button>\n      <button ion-button icon-only (click)=\'openLink("https://www.twitter.com/joewdavies/")\' class="contactItem">\n        <ion-icon title="Twitter" name="logo-twitter" class="contactIcons" item-start></ion-icon>\n      </button>\n      <button ion-button icon-only (click)=\'openLink("https://www.instagram.com/joewdavies/")\' class="contactItem">\n        <ion-icon title="Instagram" name="logo-instagram" class="contactIcons" item-start></ion-icon>\n      </button>\n    </ion-buttons>\n  </div>\n'/*ion-inline-end:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\navbar\navbar.html"*/
+        }),
+        __metadata("design:paramtypes", [])
+    ], NavbarComponent);
+    return NavbarComponent;
+}());
+
+//# sourceMappingURL=navbar.js.map
+
+/***/ }),
+
+/***/ 281:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return HomePage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(32);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var HomePage = /** @class */ (function () {
+    function HomePage(navCtrl) {
+        this.navCtrl = navCtrl;
+        this.experience = {};
+        this.skills = {};
+        this.education = {};
+        this.experience = {
+            headers: ["Job Title", "Company", "Dates", "Location"],
+            title: "Experience",
+            tableData: [
+                {
+                    row: ["COTESA", "Web GIS Developer", "05/2017 - Present", "Madrid"],
+                    modalData: ["Developing responsive web applications using Angular6, Ionic, OpenLayers, ESRI's Javascript API, Dojo, Bootstrap, HTML5 and CSS3.", "Carrying out version control of Git repositories, including Git - Flow.", "Managing web GIS infrastructure and geospatial data across ArcGIS Server, Portal and Web AppBuilder.", "Creating and publishing geoprocessing services to ArcGIS Server."]
+                },
+                {
+                    row: ["WebPac", "Executive Assistant", "05/2016 - 09/2016", "Madrid"],
+                    modalData: ["stuff"]
+                }
+            ]
+        };
+        this.education = {
+            headers: ["Organisation", "Degree Title", "Dates", "Location"],
+            title: "Education",
+            tableData: [
+                {
+                    row: ["ESRI Spain", "Geographic Information Systems MSc", "09/2016 - 07/2017", "Madrid"],
+                    modalData: [""]
+                },
+                {
+                    row: ["University of Exeter", "Geography BSc", "09/2011 - 09/2015", "Madrid"],
+                    modalData: [""]
+                }
+            ]
+        };
+        this.skills = {
+            Frontend: [{
+                    name: "Dojo",
+                    img: ""
+                }, {
+                    name: "Angular 6",
+                    img: ""
+                }, {
+                    name: "Ionic",
+                    img: ""
+                },
+                {
+                    name: "Bootstrap",
+                    img: ""
+                },
+                {
+                    name: "SASS",
+                    img: ""
+                },
+                {
+                    name: "OpenLayers",
+                    img: ""
+                },
+                {
+                    name: "ArcGIS Javascript API",
+                    img: ""
+                },
+                {
+                    name: "D3.js",
+                    img: ""
+                }
+            ],
+            "Server-Side": [{
+                    name: "Node.js",
+                    img: ""
+                }, {
+                    name: "Express.js",
+                    img: ""
+                }],
+            Databases: [{
+                    name: "MongoDB",
+                    img: ""
+                }, {
+                    name: "Oracle",
+                    img: ""
+                }, {
+                    name: "SQL Server",
+                    img: ""
+                }, {
+                    name: "Postgre SQL",
+                    img: ""
+                }],
+            "Other Tools": [{
+                    name: "Git / Git-Flow",
+                    img: ""
+                }, {
+                    name: "ArcGIS Server",
+                    img: ""
+                }, {
+                    name: "SVN",
+                    img: ""
+                }, {
+                    name: "Postgre SQL",
+                    img: ""
+                }]
+        };
+    }
+    HomePage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-home',template:/*ion-inline-start:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\pages\home\home.html"*/'<ion-header>\n\n  <app-navbar text="Joseph Davies" showIcons="true"></app-navbar>\n\n</ion-header>\n\n\n\n<ion-content class="mainContainer">\n\n  <ion-grid fixed no-padding>\n\n    <ion-row>\n\n\n\n      <ion-col col-md-4 col-lg-4 class="left-panel">\n\n\n\n        <ion-row>\n\n\n\n          <ion-col col-12>\n\n            <app-avatar></app-avatar>\n\n          </ion-col>\n\n\n\n          <ion-col col-12>\n\n            <app-skills></app-skills>\n\n          </ion-col>\n\n\n\n        </ion-row>\n\n\n\n      </ion-col>\n\n\n\n      <ion-col col-md-8 col-lg-8 class="main-panel">\n\n\n\n        <ion-row>\n\n\n\n          <ion-col col-12>\n\n            <app-experience></app-experience>\n\n          </ion-col>\n\n\n\n          <ion-col col-12>\n\n            <app-projects></app-projects>\n\n          </ion-col>\n\n\n\n          <ion-col col-12>\n\n            <!-- <app-table [data]="education"></app-table> -->\n\n            <app-education></app-education>\n\n          </ion-col>\n\n\n\n          <ion-col col-12>\n\n            <!-- <app-table [data]="education"></app-table> -->\n\n            <app-courses></app-courses>\n\n          </ion-col>\n\n\n\n          <ion-col col-12>\n\n            <!-- <app-table [data]="education"></app-table> -->\n\n            <app-interests></app-interests>\n\n          </ion-col>\n\n\n\n        </ion-row>\n\n\n\n      </ion-col>\n\n    </ion-row>\n\n\n\n  </ion-grid>\n\n</ion-content>\n\n'/*ion-inline-end:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\pages\home\home.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavController */]])
+    ], HomePage);
+    return HomePage;
+}());
+
+//# sourceMappingURL=home.js.map
+
+/***/ }),
+
+/***/ 282:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AvatarModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__avatar__ = __webpack_require__(283);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var AvatarModule = /** @class */ (function () {
+    function AvatarModule() {
+    }
+    AvatarModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__avatar__["a" /* AvatarComponent */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* IonicModule */],
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__avatar__["a" /* AvatarComponent */]
+            ]
+        })
+    ], AvatarModule);
+    return AvatarModule;
+}());
+
+//# sourceMappingURL=avatar.module.js.map
+
+/***/ }),
+
+/***/ 283:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AvatarComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+/**
+ * Generated class for the AvatarComponent component.
+ *
+ * See https://angular.io/api/core/Component for more info on Angular
+ * Components.
+ */
+var AvatarComponent = /** @class */ (function () {
+    function AvatarComponent() {
+        this.summary = "I enjoy developing responsive web applications that help derive meaningful insight from geospatial data. I'm passionate about maps and I specialise in the development of web geographic information systems and location intelligence.";
+        this.summary2 = "I was the sole frontend developer of the accesibility management system and accesible route planner for people with disabilities, as part of the Sevilla Smart City initiative.";
+        this.count = {
+            years: 1,
+            months: 9,
+            projects: 5,
+            languages: 2
+        };
+    }
+    AvatarComponent.prototype.ngOnInit = function () {
+        //calculate years of experience
+        this.calculateMonthDiff(new Date(2017, 2, 1), new Date());
+    };
+    AvatarComponent.prototype.calculateMonthDiff = function (df, dt) {
+        // var allMonths = dt.getMonth() - df.getMonth() + (12 * (dt.getFullYear() - df.getFullYear()));
+        var allYears = dt.getFullYear() - df.getFullYear();
+        var partialMonths = dt.getMonth() - df.getMonth();
+        if (partialMonths < 0) {
+            allYears--;
+            partialMonths = partialMonths + 12;
+        }
+        // var total = allYears + " year," + partialMonths + " months";
+        this.count.years = allYears;
+        this.count.months = partialMonths;
+    };
+    AvatarComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'app-avatar',template:/*ion-inline-start:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\avatar\avatar.html"*/'<ion-card class="admin-card">\n\n\n\n  <ion-card-content>\n\n    <div class="avatar" text-center>\n\n      <div class="avatar-img">\n\n        <img src="assets/imgs/avatar.jpeg">\n\n      </div>\n\n      <ion-label class="heading" text-uppercase> Joseph Davies </ion-label>\n\n      <ion-label class="title" color="secondary">Web Developer</ion-label>\n\n    </div>\n\n    <ion-grid no-padding>\n\n      <ion-row>\n\n        <ion-col col-12>\n\n          <!-- <ul class="list-stats text-center">\n\n            <li>\n\n              <ion-label no-padding no-margin text-center>Experience</ion-label>\n\n              <p class="stat-text"><span>{{count.years}}</span><span class="tinyLabel">yr </span><span>{{count.months}}</span><span\n\n                  class="tinyLabel">mos</span></p> -->\n\n          <!-- <p class="counterLabel">Years</p> -->\n\n          <!-- </li>\n\n            <li>\n\n              <ion-label no-padding no-margin text-center>Projects</ion-label>\n\n              <p class="stat-text">{{count.projects}}</p>\n\n            </li> -->\n\n          <!-- <li>\n\n              <ion-label no-padding no-margin text-center>Languages</ion-label>\n\n              <p class="stat-text">{{count.languages}}</p>\n\n              <p class="counterLabel">EN | ESP</p> \n\n            </li> -->\n\n          <!-- </ul> -->\n\n        </ion-col>\n\n\n\n      </ion-row>\n\n    </ion-grid>\n\n\n\n    <div class="profiles">\n\n\n\n      <ion-grid padding>\n\n        <ion-row>\n\n          <ion-col col-12 text-justify>\n\n            <p>{{summary}}</p>\n\n            <br>\n\n            <p>{{summary2}}</p>\n\n\n\n\n\n            <div text-center margin-top>\n\n              <a button ion-button color="secondary" round outline href="https://www.esmartcity.es/comunicaciones/comunicacion-gestor-accesibilidad-peatonal-urbana-planificador-viajes-accesibles"\n\n                target="_blank">\n\n                Read more\n\n              </a>\n\n\n\n            </div>\n\n\n\n\n\n          </ion-col>\n\n\n\n        </ion-row>\n\n\n\n        <!-- <ion-row>\n\n          <ion-item padding>\n\n\n\n            <ion-icon name="contact"></ion-icon>\n\n            <ion-icon color="secondary" name="contact"></ion-icon>\n\n            <ion-icon color="secondary" name="contact"></ion-icon>\n\n\n\n          </ion-item>\n\n        </ion-row> -->\n\n\n\n      </ion-grid>\n\n    </div>\n\n  </ion-card-content>\n\n\n\n\n\n\n\n</ion-card>\n\n'/*ion-inline-end:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\avatar\avatar.html"*/
+        }),
+        __metadata("design:paramtypes", [])
+    ], AvatarComponent);
+    return AvatarComponent;
+}());
+
+//# sourceMappingURL=avatar.js.map
+
+/***/ }),
+
+/***/ 284:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ExperienceModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__experience__ = __webpack_require__(285);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__collapse_card_collapse_card_module__ = __webpack_require__(277);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+var ExperienceModule = /** @class */ (function () {
+    function ExperienceModule() {
+    }
+    ExperienceModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__experience__["a" /* ExperienceComponent */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* IonicModule */],
+                __WEBPACK_IMPORTED_MODULE_3__collapse_card_collapse_card_module__["a" /* CollapseCardModule */]
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__experience__["a" /* ExperienceComponent */]
+            ]
+        })
+    ], ExperienceModule);
+    return ExperienceModule;
+}());
+
+//# sourceMappingURL=experience.module.js.map
+
+/***/ }),
+
+/***/ 285:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ExperienceComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(32);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+/**
+ * Generated class for the ExperienceComponent component.
+ *
+ * See https://angular.io/api/core/Component for more info on Angular
+ * Components.
+ */
+var ExperienceComponent = /** @class */ (function () {
+    function ExperienceComponent(modalCtrl, navCtrl, plt) {
+        this.modalCtrl = modalCtrl;
+        this.navCtrl = navCtrl;
+        this.plt = plt;
+        this.experience = [];
+        this.showExperience = true;
+        this.experience = [
+            {
+                company: "COTESA",
+                title: "Web Developer",
+                dates: "01/2018 - Present",
+                listTitle: "Responsibilities",
+                list: ["Developing responsive web applications using Angular6, Ionic, OpenLayers, ESRI's Javascript API, Dojo, Bootstrap, HTML5 and CSS3.", "Carrying out version control of Git repositories, including Git - Flow.", "Managing web GIS infrastructure and geospatial data across ArcGIS Server, Portal and Web AppBuilder.", "Creating and publishing geoprocessing services to ArcGIS Server."],
+                img: "assets/imgs/cotesa.png",
+                location: "Madrid",
+                url: "https://www.grupotecopy.es/es/"
+            },
+            {
+                company: "COTESA",
+                title: "Junior Front-End Developer",
+                dates: "04/2017 - 01/2018",
+                listTitle: "Responsibilities",
+                list: ["Developing responsive web applications using Angular6, Ionic, OpenLayers, ESRI's Javascript API, Dojo, Bootstrap, HTML5 and CSS3.", "Carrying out version control of Git repositories, including Git - Flow.", "Managing web GIS infrastructure and geospatial data across ArcGIS Server, Portal and Web AppBuilder.", "Creating and publishing geoprocessing services to ArcGIS Server."],
+                img: "assets/imgs/cotesa.png",
+                location: "Madrid",
+                url: "https://www.grupotecopy.es/es/"
+            },
+            {
+                company: "WebPac",
+                title: "Executive Assistant",
+                dates: "05/2016 - 09/2016",
+                listTitle: "Responsibilities",
+                list: [
+                    "Sourcing new member suppliers and facilitating the creation of their Portals.",
+                    "Contacting buyers in order to fulfill their requests for quote(RFQ).",
+                    "Building and designing portals for clients using html, from which they could independently create and manage their own requests."
+                ],
+                img: "assets/imgs/webpac.png",
+                location: "Madrid",
+                url: "https://www.webpac.com/"
+            }
+        ];
+    }
+    ExperienceComponent.prototype.toggleVisibility = function () {
+        this.showExperience = !this.showExperience;
+    };
+    ExperienceComponent.prototype.ngOnInit = function () {
+        if (window.screen.width === 360) {
+            this.mobile = true;
+        }
+    };
+    ExperienceComponent.prototype.presentModal = function (job) {
+        //use page or modal navigation according to device
+        if (this.plt.is('mobile')) {
+            this.navCtrl.push('ModalPage', { data: job });
+        }
+        else if (this.plt.is('core')) {
+            var modal = this.modalCtrl.create('ModalPage', { data: job });
+            modal.present();
+        }
+    };
+    ExperienceComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'app-experience',template:/*ion-inline-start:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\experience\experience.html"*/'<!-- <ion-toolbar color="secondary">\n\n  <ion-title>\n\n    {{literals.title}}\n\n  </ion-title>\n\n</ion-toolbar> -->\n\n\n\n<app-collapse-card heading="Experience" icon="briefcase">\n\n\n\n  <!-- <ion-item (click)="toggleVisibility()" color="secondary">\n\n    <ion-icon name="briefcase" item-start></ion-icon>\n\n    <ion-label class="heading">Experience</ion-label>\n\n    <ion-toggle [(ngModel)]="showExperience" color="dark"></ion-toggle>\n\n    <ion-icon color="light" [name]="showExperience ? \'ios-arrow-down\' : \'ios-arrow-up\'" item-end class="clicable"></ion-icon>\n\n  </ion-item> -->\n\n\n\n  <ion-list>\n\n    <ion-item *ngFor="let job of experience" (click)="presentModal(job)">\n\n      <ion-thumbnail item-start>\n\n        <img [src]="job.img">\n\n      </ion-thumbnail>\n\n      <h2>{{job.title}}</h2>\n\n      <p>{{job.company}}, {{job.location}} • {{job.dates}}</p>\n\n      <button ion-button clear item-end color="secondary">View</button>\n\n    </ion-item>\n\n  </ion-list>\n\n\n\n</app-collapse-card>\n\n'/*ion-inline-end:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\experience\experience.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* ModalController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["k" /* Platform */]])
+    ], ExperienceComponent);
+    return ExperienceComponent;
+}());
+
+//# sourceMappingURL=experience.js.map
+
+/***/ }),
+
+/***/ 286:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CollapseCardComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_animations__ = __webpack_require__(99);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var CollapseCardComponent = /** @class */ (function () {
+    function CollapseCardComponent() {
+        this.loadingIndicator = false;
+        this.infoIcon = "";
+        this.color = "dark";
+        this.textColor = "inverse_text";
+        this.isCollapse = false;
+    }
+    CollapseCardComponent.prototype.ngOnInit = function () {
+        this.state = this.isCollapse ? "collapsed" : "expanded";
+    };
+    CollapseCardComponent.prototype.toggleCollapse = function () {
+        this.state = (this.state === "collapsed") ? "expanded" : "collapsed";
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["D" /* Input */])(),
+        __metadata("design:type", String)
+    ], CollapseCardComponent.prototype, "heading", void 0);
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["D" /* Input */])(),
+        __metadata("design:type", Boolean)
+    ], CollapseCardComponent.prototype, "loadingIndicator", void 0);
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["D" /* Input */])(),
+        __metadata("design:type", String)
+    ], CollapseCardComponent.prototype, "infoIcon", void 0);
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["D" /* Input */])(),
+        __metadata("design:type", String)
+    ], CollapseCardComponent.prototype, "color", void 0);
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["D" /* Input */])(),
+        __metadata("design:type", String)
+    ], CollapseCardComponent.prototype, "textColor", void 0);
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["D" /* Input */])(),
+        __metadata("design:type", Boolean)
+    ], CollapseCardComponent.prototype, "isCollapse", void 0);
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["D" /* Input */])(),
+        __metadata("design:type", String)
+    ], CollapseCardComponent.prototype, "icon", void 0);
+    CollapseCardComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["m" /* Component */])({
+            selector: "app-collapse-card",template:/*ion-inline-start:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\collapse-card\collapse-card.component.html"*/'<ion-card>\n\n\n\n  <ion-item class="clicable" (click)="toggleCollapse()" color="secondary">\n\n    <ion-icon name="{{icon}}" item-start></ion-icon>\n\n    <ion-label class="heading">{{heading}}</ion-label>\n\n    <ion-icon *ngIf="state==\'collapsed\'" color="light" name="arrow-dropdown-circle" class="open-icon" item-end></ion-icon>\n\n    <ion-icon *ngIf="state==\'expanded\'" color="light" name="ios-arrow-dropup" class="open-icon" item-end></ion-icon>\n\n  </ion-item>\n\n\n\n  <div class="collapse-container" [@collapseTrigger]="state" [ngClass]="{\'allowOverflow\': allowOverflow}">\n\n    <ng-content></ng-content>\n\n  </div>\n\n\n\n\n\n\n\n</ion-card>\n\n'/*ion-inline-end:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\collapse-card\collapse-card.component.html"*/,
+            animations: [
+                Object(__WEBPACK_IMPORTED_MODULE_0__angular_animations__["j" /* trigger */])("collapseTrigger", [
+                    Object(__WEBPACK_IMPORTED_MODULE_0__angular_animations__["g" /* state */])("collapsed", Object(__WEBPACK_IMPORTED_MODULE_0__angular_animations__["h" /* style */])({
+                        opacity: 0,
+                        height: 0,
+                        padding: 0,
+                    })),
+                    Object(__WEBPACK_IMPORTED_MODULE_0__angular_animations__["g" /* state */])("expanded", Object(__WEBPACK_IMPORTED_MODULE_0__angular_animations__["h" /* style */])({
+                        opacity: 1,
+                    })),
+                    Object(__WEBPACK_IMPORTED_MODULE_0__angular_animations__["i" /* transition */])("* => *", Object(__WEBPACK_IMPORTED_MODULE_0__angular_animations__["e" /* animate */])(".3s ease-in")),
+                ]),
+            ],
+        }),
+        __metadata("design:paramtypes", [])
+    ], CollapseCardComponent);
+    return CollapseCardComponent;
+}());
+
+//# sourceMappingURL=collapse-card.component.js.map
+
+/***/ }),
+
+/***/ 287:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return EducationModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__education__ = __webpack_require__(288);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__collapse_card_collapse_card_module__ = __webpack_require__(277);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+var EducationModule = /** @class */ (function () {
+    function EducationModule() {
+    }
+    EducationModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__education__["a" /* EducationComponent */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* IonicModule */],
+                __WEBPACK_IMPORTED_MODULE_3__collapse_card_collapse_card_module__["a" /* CollapseCardModule */]
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__education__["a" /* EducationComponent */]
+            ]
+        })
+    ], EducationModule);
+    return EducationModule;
+}());
+
+//# sourceMappingURL=education.module.js.map
+
+/***/ }),
+
+/***/ 288:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return EducationComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(32);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+/**
+ * Generated class for the EducationComponent component.
+ *
+ * See https://angular.io/api/core/Component for more info on Angular
+ * Components.
+ */
+var EducationComponent = /** @class */ (function () {
+    function EducationComponent(modalCtrl, navCtrl, plt) {
+        this.modalCtrl = modalCtrl;
+        this.navCtrl = navCtrl;
+        this.plt = plt;
+        this.education = [];
+        this.courses = [];
+        this.showEducation = true;
+        this.education = [
+            {
+                company: "ESRI Spain",
+                title: "Geographic Information Systems MSc",
+                dates: "2016 - 2017",
+                img: "assets/imgs/esri.png",
+                description: "",
+                listTitle: "Topics Covered",
+                list: ["GIS applied to economic sectors", "Geospatial Analysis", "Deployment of GIS architecture", "Treatment and storage of GIS data", "Task Automation", "Web Application Development"],
+                location: "Madrid",
+                topics: true
+            },
+            {
+                type: 'education',
+                company: "University of Exeter",
+                title: "Geography BSc (Hons)",
+                dates: "2011 - 2015",
+                img: "assets/imgs/exeter.png",
+                description: "",
+                listTitle: "Topics Covered",
+                list: ["GIS & Geospatial Analysis", "Climate Science", "Geopolitics & International Relations", "Cryosphere & Glaciology", "Remote Sensing", "Fluvial Geomorphology"],
+                location: "Exeter",
+                topics: true
+            }
+        ];
+    }
+    EducationComponent.prototype.ngOnInit = function () {
+    };
+    EducationComponent.prototype.toggleVisibility = function () {
+        this.showEducation = !this.showEducation;
+    };
+    EducationComponent.prototype.presentModal = function (item) {
+        //use page or modal navigation according to device
+        if (this.plt.is('mobile')) {
+            this.navCtrl.push('ModalPage', { data: item });
+        }
+        else if (this.plt.is('core')) {
+            var modal = this.modalCtrl.create('ModalPage', { data: item });
+            modal.present();
+        }
+    };
+    EducationComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'app-education',template:/*ion-inline-start:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\education\education.html"*/'<app-collapse-card heading="Education" icon="school">\n\n  <ion-list>\n    <ion-item *ngFor="let item of education" (click)="presentModal(item)">\n      <ion-thumbnail item-start>\n        <img [src]="item.img">\n      </ion-thumbnail>\n      <h2>{{item.title}}</h2>\n      <p>{{item.company}}, {{item.location}} | {{item.dates}}</p>\n      <button ion-button clear item-end color="secondary">View</button>\n    </ion-item>\n  </ion-list>\n\n</app-collapse-card>\n'/*ion-inline-end:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\education\education.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* ModalController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["k" /* Platform */]])
+    ], EducationComponent);
+    return EducationComponent;
+}());
+
+//# sourceMappingURL=education.js.map
+
+/***/ }),
+
+/***/ 289:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SkillsModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__skills__ = __webpack_require__(290);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__pipes_pipes_module__ = __webpack_require__(291);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__collapse_card_collapse_card_module__ = __webpack_require__(277);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+var SkillsModule = /** @class */ (function () {
+    function SkillsModule() {
+    }
+    SkillsModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__skills__["a" /* SkillsComponent */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* IonicModule */],
+                __WEBPACK_IMPORTED_MODULE_3__pipes_pipes_module__["a" /* PipesModule */],
+                __WEBPACK_IMPORTED_MODULE_4__collapse_card_collapse_card_module__["a" /* CollapseCardModule */]
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__skills__["a" /* SkillsComponent */]
+            ]
+        })
+    ], SkillsModule);
+    return SkillsModule;
+}());
+
+//# sourceMappingURL=skills.module.js.map
+
+/***/ }),
+
+/***/ 290:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SkillsComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+/**
+ * Generated class for the SkillsComponent component.
+ *
+ * See https://angular.io/api/core/Component for more info on Angular
+ * Components.
+ */
+var SkillsComponent = /** @class */ (function () {
+    function SkillsComponent() {
+        this.skills = {};
+        this.showSkills = true;
+        this.skills = {
+            "Frontend": [{
+                    'title': 'Angular',
+                    'icon': 'logo-angular',
+                    'url': 'https://angular.io/',
+                    'color': '#E63135'
+                },
+                {
+                    'title': 'CSS3',
+                    'icon': 'logo-css3',
+                    'url': 'https://en.wikipedia.org/wiki/Cascading_Style_Sheets',
+                    'color': '#0CA9EA'
+                },
+                {
+                    'title': 'HTML5',
+                    'icon': 'logo-html5',
+                    'url': 'https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5',
+                    'color': '#F46529'
+                },
+                {
+                    'title': 'JavaScript',
+                    'icon': 'logo-javascript',
+                    'url': 'https://en.wikipedia.org/wiki/JavaScript',
+                    'color': '#FFD439'
+                },
+                {
+                    'title': 'Sass',
+                    'icon': 'logo-sass',
+                    'url': 'https://sass-lang.com/',
+                    'color': '#CE6296'
+                },
+                {
+                    'title': 'Dojo Toolkit',
+                    'img': 'assets/imgs/skills/dojo.png',
+                    'url': 'https://dojo.io/',
+                    'color': '#3575AC'
+                },
+                {
+                    'title': 'Ionic',
+                    'icon': 'ionic',
+                    'url': 'https://ionicframework.com',
+                    'color': '#219DFF'
+                },
+                {
+                    'title': 'ArcGIS Javascript API',
+                    'icon': 'globe',
+                    'url': 'https://developers.arcgis.com/javascript/',
+                    'color': '#00AB44'
+                },
+                {
+                    'title': 'OpenLayers',
+                    'icon': 'logo-buffer',
+                    'url': 'https://openlayers.org/',
+                    'color': '#53C5D5'
+                },
+                {
+                    'title': 'Leaflet',
+                    'img': 'assets/imgs/skills/leaflet.png',
+                    'url': 'https://leafletjs.com',
+                    'color': '#53C5D5'
+                },
+                {
+                    'title': 'D3.js',
+                    'img': 'assets/imgs/skills/d3.png',
+                    'url': 'https://d3js.org/',
+                    'color': '#3575AC'
+                },
+                {
+                    'title': 'Bootstrap',
+                    'img': 'assets/imgs/skills/bootstrap.png',
+                    'url': 'http://getbootstrap.com/',
+                    'color': '#563D7C'
+                }
+            ],
+            "Server-Side": [
+                {
+                    'title': 'NodeJS',
+                    'icon': 'logo-nodejs',
+                    'url': 'https://nodejs.org/en/',
+                    'color': '#78BD43'
+                }, {
+                    "title": "Express.js",
+                    'icon': 'logo-nodejs',
+                    'url': 'http://getbootstrap.com/',
+                    'color': '#563D7C'
+                }
+            ],
+            Databases: [{
+                    "title": "MongoDB",
+                    'img': 'assets/imgs/skills/mongo.png',
+                    'url': 'http://getbootstrap.com/',
+                    'color': '#563D7C'
+                }, {
+                    "title": "Oracle",
+                    'img': 'assets/imgs/skills/sqlserver.png',
+                    'url': 'http://getbootstrap.com/',
+                    'color': '#563D7C'
+                }, {
+                    "title": "Postgre SQL",
+                    'img': 'assets/imgs/skills/postgre.png',
+                    'url': 'http://getbootstrap.com/',
+                    'color': '#563D7C'
+                }, {
+                    "title": "SQL Server (eugh)",
+                    'img': 'assets/imgs/skills/sql.png',
+                    'url': 'http://getbootstrap.com/',
+                    'color': '#563D7C'
+                }],
+            "Other Tools": [{
+                    "title": "Git / Git-Flow",
+                    "icon": "git-branch",
+                    'url': 'http://getbootstrap.com/',
+                    'color': 'black'
+                }, {
+                    "title": "ArcGIS Server",
+                    'img': 'assets/imgs/skills/arcgis.png',
+                    'url': 'http://getbootstrap.com/',
+                    'color': '#563D7C'
+                }, {
+                    "title": "SVN",
+                    'img': 'assets/imgs/skills/svn.png',
+                    'url': 'http://getbootstrap.com/',
+                    'color': '#563D7C'
+                }, {
+                    "title": "Chrome DevTools",
+                    'img': 'assets/imgs/skills/devtools.png',
+                    'url': 'http://getbootstrap.com/',
+                    'color': '#563D7C'
+                }]
+        };
+    }
+    SkillsComponent.prototype.toggleVisibility = function () {
+        this.showSkills = !this.showSkills;
+    };
+    SkillsComponent.prototype.openSkillLink = function (id) {
+        if (id !== null) {
+            document.getElementById(id).click();
+        }
+    };
+    SkillsComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'app-skills',template:/*ion-inline-start:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\skills\skills.html"*/'<app-collapse-card heading="Skills" icon="build">\n\n\n\n  <ion-item-group *ngFor="let item of skills | keys">\n\n\n\n    <ion-item-divider class="dividerJoe">{{item}}</ion-item-divider>\n\n\n\n    <ion-card-content>\n\n      <ion-item *ngFor="let skill of skills[item]">\n\n        <ion-avatar *ngIf=" skill.img" item-left>\n\n          <img [src]="skill.img" style="border-radius: 0%">\n\n        </ion-avatar>\n\n\n\n        <ion-icon *ngIf="skill.icon" [name]="skill.icon" [ngStyle]="{\'color\': skill.color}" item-start></ion-icon>\n\n        {{ skill.title }}\n\n        <!-- <a [href]="skill.url" target="_blank" [id]="skill.title"></a> -->\n\n      </ion-item>\n\n    </ion-card-content>\n\n  </ion-item-group>\n\n\n\n</app-collapse-card>\n\n'/*ion-inline-end:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\skills\skills.html"*/
+        }),
+        __metadata("design:paramtypes", [])
+    ], SkillsComponent);
+    return SkillsComponent;
+}());
+
+//# sourceMappingURL=skills.js.map
+
+/***/ }),
+
+/***/ 291:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return PipesModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__keys_keys__ = __webpack_require__(292);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+var PipesModule = /** @class */ (function () {
+    function PipesModule() {
+    }
+    PipesModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_1__keys_keys__["a" /* KeysPipe */]
+            ],
+            imports: [],
+            exports: [__WEBPACK_IMPORTED_MODULE_1__keys_keys__["a" /* KeysPipe */]]
+        })
+    ], PipesModule);
+    return PipesModule;
+}());
+
+//# sourceMappingURL=pipes.module.js.map
+
+/***/ }),
+
+/***/ 292:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return KeysPipe; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+/**
+ * Generated class for the KeysPipe pipe.
+ *
+ * See https://angular.io/api/core/Pipe for more info on Angular Pipes.
+ */
+var KeysPipe = /** @class */ (function () {
+    function KeysPipe() {
+    }
+    /**
+     * maps an object.
+     */
+    KeysPipe.prototype.transform = function (value, args) {
+        if (args === void 0) { args = null; }
+        return Object.keys(value); //.map(key => value[key]);
+    };
+    KeysPipe = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Pipe */])({
+            name: 'keys',
+        })
+    ], KeysPipe);
+    return KeysPipe;
+}());
+
+//# sourceMappingURL=keys.js.map
+
+/***/ }),
+
+/***/ 293:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ProjectsModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__projects__ = __webpack_require__(294);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__collapse_card_collapse_card_module__ = __webpack_require__(277);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+var ProjectsModule = /** @class */ (function () {
+    function ProjectsModule() {
+    }
+    ProjectsModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__projects__["a" /* ProjectsComponent */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* IonicModule */],
+                __WEBPACK_IMPORTED_MODULE_3__collapse_card_collapse_card_module__["a" /* CollapseCardModule */]
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__projects__["a" /* ProjectsComponent */]
+            ]
+        })
+    ], ProjectsModule);
+    return ProjectsModule;
+}());
+
+//# sourceMappingURL=projects.module.js.map
+
+/***/ }),
+
+/***/ 294:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ProjectsComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(32);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+/**
+ * Generated class for the ProjectsComponent component.
+ *
+ * See https://angular.io/api/core/Component for more info on Angular
+ * Components.
+ */
+var ProjectsComponent = /** @class */ (function () {
+    function ProjectsComponent(modalCtrl, navCtrl, plt) {
+        this.modalCtrl = modalCtrl;
+        this.navCtrl = navCtrl;
+        this.plt = plt;
+        this.projects = [];
+        this.otherProjects = [];
+        this.showProjects = true;
+        this.projects = [
+            {
+                'name': 'Sevilla Smart City',
+                'title': 'Sevilla Smart City - Gestor de Accesibilidad',
+                'icon': 'pin',
+                'url': 'https://www.esmartcity.es/videoteca/ponencia-gestor-accesibilidad-peatonal-urbana-planificador-viajes-accesibles',
+                'description': 'Pedestrian Accesibility Management Platform and Accesible Route Planner - A web GIS application designed to enable the local government of Sevilla to manage their urban infrastructure through spatial analysis. It allows the user to calculate appropriate routes for people with different disabilities and monitor the accesibility of different areas.<br><br> Users with admin privileges are able to edit, create, delete and save records and also adjust the parameters used in the web services which determine the accesibility bands for each disability.',
+                'color': '',
+                'article': 'http://www.esri.es/gestor-movilidad-accesible-sevilla/',
+                'img': 'assets/imgs/projects/sevilla.png',
+                'screenshots': ["assets/imgs/projects/barrerasRutas.png", "assets/imgs/projects/sevilla1.png", "assets/imgs/projects/sevillaTematico.png", "assets/imgs/projects/sevillaHeatMap.png", "assets/imgs/projects/sevillaServiceArea.png", "assets/imgs/projects/informe.png"],
+                'id': "project3",
+                'listTitle': "Responsibilities",
+                'list': ["Develop web application for the management of pedestrian accesibility", "Carry out version control using Git", "Build services in ArcGIS server", "Manage geospatial data"]
+            },
+            {
+                'name': 'Ayuntamiento A Coruña',
+                'title': 'Visor PGOM',
+                'icon': 'pin',
+                'color': '',
+                'description': "A responsive web application was developed in order to facilitate the exploitation and management of georeferenced data belonging to the council of A Coruña.",
+                'img': 'assets/imgs/projects/pgom.png',
+                'screenshots': ["assets/imgs/projects/pgom_screenshot.png", "assets/imgs/projects/planeamiento.png"],
+                'id': "project1",
+                'listTitle': "Features",
+                'list': ["Slider used to scroll through a temporal archive of satellite imagery", "Land registry identification tool", "advanced report printing tools", "Add local data tool", "Geospatial data download tool for public use"]
+            },
+            {
+                'name': 'IDEEX',
+                'title': 'Infraestructura de Datos Espaciales de Extremadura',
+                'icon': 'pin',
+                'description': 'A geospatial web platform was developed to facilitate the management and querying of georeferenced data. The map viewer was designed and built using Angular 6 and Ionic 3 in order to ensure that the application was responsive.',
+                'color': '',
+                'img': 'assets/imgs/projects/IDEEX.png',
+                'id': "project2",
+                'listTitle': "Responsibilities",
+                'list': ["Build geospatial tools and components using OpenLayers", "Build components for an administration page to allow the user to save, delete and edit configurations of maps, layers, permissions and tools", "Design a component that allows the user to upload/remove documents from their saved session", "Implement directive for multi-language JSON", "Carry out version control using GitFlow"]
+            }, {
+                'name': 'AgroSeguro',
+                'title': 'Coorporate GIS platform',
+                'icon': 'pin',
+                'description': 'This web GIS application, based on the ArcGIS Javascript API, allows the user to query appraisal data. Custom tools enable staff to find spatial patterns by dynamically applying renderers, generating reports, identifying records and exporting data to CSV or KML formats.',
+                'color': '',
+                'img': 'assets/imgs/projects/agroseguro.png',
+                'id': "project2",
+                'listTitle': "Capabilities",
+                'screenshots': ["assets/imgs/projects/agroseguro1.png", "assets/imgs/projects/agroseguro2.png"],
+                'list': ["Query large data sets and visualize point data through user-defined symbologies", "Generate dynamic PDF reports using Javascript", "Cluster point data returned by large queries (up to 50,000 records)", "Apply dynamic scales for visualizing point and polygon data effectivley", "Apply geographic filters to SQL queries used for data visualization, exportation and report generation"]
+            }
+        ];
+        this.otherProjects = [
+            {
+                'name': 'Missing Maps Project',
+                'title': 'Volunteer Mapper - British Red Cross Missing Maps Project.',
+                'url': 'http://www.missingmaps.org/',
+                'icon': 'pin',
+                'description': 'The Missing Maps project is one of the largest digital humanitarian efforts in history.<br><br> It is a collaboration between the Red Cross and Médecins Sans Frontières/Doctors Without Borders (MSF) which aims to produce open source digital maps of unmapped and vulnerable regions.',
+                'color': '',
+                'id': "project4",
+                'img': 'assets/imgs/projects/mm.png'
+            }
+            // {
+            //   'name': 'Remote Sensing of Tidewater Glaciers',
+            //   'title': 'Undergraduate dissertation: Remote Sensing of five tidewater glaciers along the Oates Coast, East Antarctica',
+            //   'icon': 'pin',
+            //   'color': '',
+            //   'img': 'assets/imgs/projects/exeter.png',
+            //   'imgHeight': '100px',
+            //   'doc': 'assets/docs/dissertation.pdf',
+            //   'id': "project5"
+            // }
+        ];
+    }
+    ProjectsComponent.prototype.toggleVisibility = function () {
+        this.showProjects = !this.showProjects;
+    };
+    ProjectsComponent.prototype.presentModal = function (project) {
+        //use page or modal navigation according to device
+        if (this.plt.is('mobile')) {
+            this.navCtrl.push('ModalPage', { data: project });
+        }
+        else if (this.plt.is('core')) {
+            var modal = this.modalCtrl.create('ModalPage', { data: project });
+            modal.present();
+        }
+    };
+    ProjectsComponent.prototype.openProjectLink = function (id) {
+        // if (id !== "null") {
+        //   document.getElementById(id).click();
+        // }
+        //open modal
+    };
+    ProjectsComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'app-projects',template:/*ion-inline-start:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\projects\projects.html"*/'<app-collapse-card heading="Projects" icon="build">\n\n\n\n  <ion-list *ngIf="showProjects">\n\n    <button ion-item *ngFor="let project of projects" icon-start (click)="presentModal(project)">\n\n      <ion-icon [name]="project.icon" [ngStyle]="{\'color\': project.color}" item-start></ion-icon>\n\n      {{project.name}}\n\n      <ion-icon name="ios-arrow-forward" showWhen="android, core" item-end></ion-icon>\n\n    </button>\n\n  </ion-list>\n\n\n\n\n\n  <ion-item-divider class="dividerJoe">Other Contributions</ion-item-divider>\n\n\n\n  <ion-list>\n\n    <button ion-item *ngFor="let project of otherProjects" icon-start (click)="presentModal(project)">\n\n      <ion-icon [name]="project.icon" [ngStyle]="{\'color\': project.color}" item-start></ion-icon>\n\n      {{project.name}}\n\n      <ion-icon name="ios-arrow-forward" showWhen="android, core" item-end></ion-icon>\n\n    </button>\n\n  </ion-list>\n\n\n\n</app-collapse-card>\n\n'/*ion-inline-end:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\projects\projects.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* ModalController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["k" /* Platform */]])
+    ], ProjectsComponent);
+    return ProjectsComponent;
+}());
+
+//# sourceMappingURL=projects.js.map
+
+/***/ }),
+
+/***/ 295:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return InterestsModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Interests__ = __webpack_require__(296);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__collapse_card_collapse_card_module__ = __webpack_require__(277);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+var InterestsModule = /** @class */ (function () {
+    function InterestsModule() {
+    }
+    InterestsModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__Interests__["a" /* InterestsComponent */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* IonicModule */],
+                __WEBPACK_IMPORTED_MODULE_3__collapse_card_collapse_card_module__["a" /* CollapseCardModule */]
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__Interests__["a" /* InterestsComponent */]
+            ]
+        })
+    ], InterestsModule);
+    return InterestsModule;
+}());
+
+//# sourceMappingURL=interests.module.js.map
+
+/***/ }),
+
+/***/ 296:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return InterestsComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+/**
+ * Generated class for the InterestsComponent component.
+ *
+ * See https://angular.io/api/core/Component for more info on Angular
+ * Components.
+ */
+var InterestsComponent = /** @class */ (function () {
+    function InterestsComponent() {
+        this.interests = [];
+        this.showInterests = true;
+        this.interests = [
+            {
+                'name': 'Rugby',
+                'icon': 'ios-american-football',
+                'color': '',
+            }, {
+                'name': 'Music',
+                'icon': 'ios-musical-notes',
+                'color': '',
+            }, {
+                'name': 'Games',
+                'icon': 'ios-game-controller-b',
+                'color': '',
+            }, {
+                'name': 'Travel',
+                'icon': 'md-globe',
+                'color': '',
+            }
+        ];
+    }
+    InterestsComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'app-interests',template:/*ion-inline-start:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\interests\interests.html"*/'<app-collapse-card heading="Interests" icon="build">\n\n\n\n  <ion-list *ngIf="showInterests">\n\n    <ion-item *ngFor="let interest of interests" icon-start no-lines>\n\n      <ion-icon [name]="interest.icon" [ngStyle]="{\'color\': interest.color}" item-start></ion-icon>\n\n      {{interest.name}}\n\n    </ion-item>\n\n  </ion-list>\n\n\n\n</app-collapse-card>\n\n'/*ion-inline-end:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\interests\interests.html"*/
+        }),
+        __metadata("design:paramtypes", [])
+    ], InterestsComponent);
+    return InterestsComponent;
+}());
+
+//# sourceMappingURL=Interests.js.map
+
+/***/ }),
+
+/***/ 297:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CoursesModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__courses__ = __webpack_require__(298);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__collapse_card_collapse_card_module__ = __webpack_require__(277);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+var CoursesModule = /** @class */ (function () {
+    function CoursesModule() {
+    }
+    CoursesModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__courses__["a" /* CoursesComponent */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* IonicModule */],
+                __WEBPACK_IMPORTED_MODULE_3__collapse_card_collapse_card_module__["a" /* CollapseCardModule */]
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__courses__["a" /* CoursesComponent */]
+            ]
+        })
+    ], CoursesModule);
+    return CoursesModule;
+}());
+
+//# sourceMappingURL=courses.module.js.map
+
+/***/ }),
+
+/***/ 298:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CoursesComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+/**
+ * Generated class for the CoursesComponent component.
+ *
+ * See https://angular.io/api/core/Component for more info on Angular
+ * Components.
+ */
+var CoursesComponent = /** @class */ (function () {
+    function CoursesComponent() {
+        this.courses = [];
+        this.courses = [
+            {
+                title: "Angular: De cero a experto creando aplicaciones (Angular 7+)",
+                dates: "2018",
+                description: "https://www.udemy.com/angular-2-fernando-herrera/learn/v4/overview",
+                url: "",
+                img: "assets/imgs/education/angular.jpg"
+            },
+            {
+                title: "Angular & NodeJS - The MEAN Stack Guide",
+                dates: "2018",
+                description: "",
+                url: "https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/learn/v4/overview",
+                img: "assets/imgs/education/MEAN.jpg"
+            }
+        ];
+    }
+    CoursesComponent.prototype.openLink = function (url) {
+        var redirectWindow = window.open(url, '_blank');
+        redirectWindow.location;
+    };
+    CoursesComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'app-courses',template:/*ion-inline-start:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\courses\courses.html"*/'<app-collapse-card heading="Courses" icon="school">\n\n\n\n  <ion-list>\n\n    <ion-item *ngFor="let item of courses" (click)="openLink(item.url)">\n\n      <ion-thumbnail item-start>\n\n        <img [src]="item.img">\n\n      </ion-thumbnail>\n\n      <h2>{{item.title}}</h2>\n\n      <p>{{item.dates}}</p>\n\n      <button ion-button clear item-end color="secondary">see course</button>\n\n    </ion-item>\n\n  </ion-list>\n\n\n\n</app-collapse-card>\n\n'/*ion-inline-end:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\components\courses\courses.html"*/
+        }),
+        __metadata("design:paramtypes", [])
+    ], CoursesComponent);
+    return CoursesComponent;
+}());
+
+//# sourceMappingURL=courses.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=0.js.map

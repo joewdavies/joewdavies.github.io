@@ -1,1 +1,321 @@
-webpackJsonp([6],{137:function(l,n,u){"use strict";u.d(n,"a",function(){return a});u(5),u(46);var a=function(){return function(){}}()},147:function(l,n){function u(l){return Promise.resolve().then(function(){throw new Error("Cannot find module '"+l+"'.")})}u.keys=function(){return[]},u.resolve=u,l.exports=u,u.id=147},168:function(l,n,u){function a(l){var n=t[l];return n?u.e(n[1]).then(function(){return u(n[0])}):Promise.reject(new Error("Cannot find module '"+l+"'."))}var t={"../pages/contact/contact.module.ngfactory":[238,1],"../pages/home/home.module.ngfactory":[239,0],"../pages/map/map.module.ngfactory":[240,2],"../pages/menu/menu.module.ngfactory":[241,4],"../pages/modal/modal.module.ngfactory":[242,5],"../pages/tabs/tabs.module.ngfactory":[243,3]};a.keys=function(){return Object.keys(t)},a.id=168,l.exports=a},202:function(l,n,u){"use strict";function a(l){return g._22(0,[(l()(),g.Z(0,0,null,null,9,"ion-item",[["class","item item-block"],["no-lines",""]],null,null,null,p.b,p.a)),g.Y(1,1097728,null,3,b.a,[h.a,w.a,g.j,g.z,[2,y.a]],null,null),g._18(335544320,3,{contentLabel:0}),g._18(603979776,4,{_buttons:1}),g._18(603979776,5,{_icons:1}),g.Y(5,16384,null,0,Y.a,[],null,null),(l()(),g._20(-1,2,["\n      "])),(l()(),g.Z(7,0,null,1,1,"ion-label",[["class","modalDesc"],["text-justify",""],["text-wrap",""]],[[8,"innerHTML",1]],null,null,null,null)),g.Y(8,16384,[[3,4]],0,Z.a,[w.a,g.j,g.z,[8,null],[8,null],[8,null],[8,null]],null,null),(l()(),g._20(-1,2,["\n    "]))],null,function(l,n){l(n,7,0,n.component.data.description)})}function t(l){return g._22(0,[(l()(),g.Z(0,0,null,null,6,"ion-row",[["class","row"],["text-center",""]],null,null,null,null,null)),g.Y(1,16384,null,0,I.a,[],null,null),(l()(),g._20(-1,null,["\n      "])),(l()(),g.Z(3,0,null,null,2,"a",[["button",""],["class","modalButton"],["ion-button",""],["item-end",""],["outline",""],["target","_blank"]],[[8,"href",4]],null,null,j.b,j.a)),g.Y(4,1097728,null,0,z.a,[[8,""],w.a,g.j,g.z],{outline:[0,"outline"]},null),(l()(),g._20(-1,0,["See Article"])),(l()(),g._20(-1,null,["\n    "]))],function(l,n){l(n,4,0,"")},function(l,n){l(n,3,0,n.component.data.article)})}function o(l){return g._22(0,[(l()(),g.Z(0,0,null,null,9,"ion-item",[["class","item item-block"],["no-lines",""]],null,null,null,p.b,p.a)),g.Y(1,1097728,null,3,b.a,[h.a,w.a,g.j,g.z,[2,y.a]],null,null),g._18(335544320,6,{contentLabel:0}),g._18(603979776,7,{_buttons:1}),g._18(603979776,8,{_icons:1}),g.Y(5,16384,null,0,Y.a,[],null,null),(l()(),g._20(-1,2,["\n        "])),(l()(),g.Z(7,0,null,2,1,"strong",[],null,null,null,null,null)),(l()(),g._20(8,null,["",""])),(l()(),g._20(-1,2,["\n      "]))],null,function(l,n){l(n,8,0,n.component.data.listTitle)})}function e(l){return g._22(0,[(l()(),g.Z(0,0,null,null,12,"ion-item",[["class","modalList item item-block"],["text-wrap",""]],null,null,null,p.b,p.a)),g.Y(1,1097728,null,3,b.a,[h.a,w.a,g.j,g.z,[2,y.a]],null,null),g._18(335544320,9,{contentLabel:0}),g._18(603979776,10,{_buttons:1}),g._18(603979776,11,{_icons:1}),g.Y(5,16384,null,0,Y.a,[],null,null),(l()(),g._20(-1,2,["\n        "])),(l()(),g.Z(7,0,null,2,0,"span",[["class","bullet"]],null,null,null,null,null)),(l()(),g._20(-1,2,["\n        "])),(l()(),g.Z(9,0,null,2,1,"span",[],null,null,null,null,null)),(l()(),g._20(10,null,["",""])),(l()(),g._20(-1,2,["\n        "])),(l()(),g._20(-1,2,["\n      "]))],null,function(l,n){l(n,10,0,n.context.$implicit)})}function i(l){return g._22(0,[(l()(),g.Z(0,0,null,null,7,"div",[["padding",""]],null,null,null,null,null)),(l()(),g._20(-1,null,["\n\n      "])),(l()(),g.U(16777216,null,null,1,null,o)),g.Y(3,16384,null,0,v.i,[g.I,g.F],{ngIf:[0,"ngIf"]},null),(l()(),g._20(-1,null,["\n\n      "])),(l()(),g.U(16777216,null,null,1,null,e)),g.Y(6,802816,null,0,v.h,[g.I,g.F,g.p],{ngForOf:[0,"ngForOf"]},null),(l()(),g._20(-1,null,["\n    "]))],function(l,n){var u=n.component;l(n,3,0,u.data.listTitle);l(n,6,0,u.data.list)},null)}function r(l){return g._22(0,[(l()(),g.Z(0,0,null,null,7,"ion-slide",[],null,null,null,k.b,k.a)),g.Y(1,180224,null,0,P.a,[g.j,g.z,F.a],null,null),(l()(),g._20(-1,0,["\n          "])),(l()(),g.Z(3,0,null,0,3,"div",[["class","swiper-zoom-container"]],null,null,null,null,null)),(l()(),g._20(-1,null,["\n            "])),(l()(),g.Z(5,0,null,null,0,"img",[["class","modalScreenshot"]],[[8,"src",4]],null,null,null,null)),(l()(),g._20(-1,null,["\n          "])),(l()(),g._20(-1,0,["\n        "]))],null,function(l,n){l(n,5,0,n.context.$implicit)})}function c(l){return g._22(0,[(l()(),g.Z(0,0,null,null,1,"button",[["class","swiper-button-prev swiper-button-white"],["color","secondary"],["ion-button",""],["small",""],["type","submit"]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.prevSlide()&&a}return a},j.b,j.a)),g.Y(1,1097728,null,0,z.a,[[8,""],w.a,g.j,g.z],{color:[0,"color"],small:[1,"small"]},null)],function(l,n){l(n,1,0,"secondary","")},null)}function s(l){return g._22(0,[(l()(),g.Z(0,0,null,null,1,"button",[["class","swiper-button-next swiper-button-white"],["color","secondary"],["ion-button",""],["small",""],["type","submit"]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.nextSlide()&&a}return a},j.b,j.a)),g.Y(1,1097728,null,0,z.a,[[8,""],w.a,g.j,g.z],{color:[0,"color"],small:[1,"small"]},null)],function(l,n){l(n,1,0,"secondary","")},null)}function _(l){return g._22(0,[(l()(),g.Z(0,0,null,null,15,"ion-row",[["class","row"],["style","margin-top: 30px; padding-left:10px; padding-right:10px;"]],null,null,null,null,null)),g.Y(1,16384,null,0,I.a,[],null,null),(l()(),g._20(-1,null,["\n      "])),(l()(),g.Z(3,0,null,null,5,"ion-slides",[["pager",""],["zoom",""]],null,null,null,M.b,M.a)),g.Y(4,1228800,[[1,4]],0,F.a,[w.a,x.a,g.u,[2,C.a],g.j,g.z],{pager:[0,"pager"],zoom:[1,"zoom"]},null),(l()(),g._20(-1,0,["\n        "])),(l()(),g.U(16777216,null,0,1,null,r)),g.Y(7,802816,null,0,v.h,[g.I,g.F,g.p],{ngForOf:[0,"ngForOf"]},null),(l()(),g._20(-1,0,["\n      "])),(l()(),g._20(-1,null,["\n      "])),(l()(),g.U(16777216,null,null,1,null,c)),g.Y(11,16384,null,0,v.i,[g.I,g.F],{ngIf:[0,"ngIf"]},null),(l()(),g._20(-1,null,["\n      "])),(l()(),g.U(16777216,null,null,1,null,s)),g.Y(14,16384,null,0,v.i,[g.I,g.F],{ngIf:[0,"ngIf"]},null),(l()(),g._20(-1,null,["\n    "]))],function(l,n){var u=n.component;l(n,4,0,"","");l(n,7,0,u.data.screenshots);l(n,11,0,u.data.screenshots.length>1);l(n,14,0,u.data.screenshots.length>1)},null)}function d(l){return g._22(0,[(l()(),g.Z(0,0,null,null,24,"ion-row",[["class","docRow row"]],null,null,null,null,null)),g.Y(1,16384,null,0,I.a,[],null,null),(l()(),g._20(-1,null,["\n      "])),(l()(),g.Z(3,0,null,null,20,"ion-card",[["class","docCard"]],null,null,null,null,null)),g.Y(4,16384,null,0,H.a,[w.a,g.j,g.z],null,null),(l()(),g._20(-1,null,["\n\n        "])),(l()(),g.Z(6,0,null,null,16,"ion-card-content",[],null,null,null,null,null)),g.Y(7,16384,null,0,U.a,[w.a,g.j,g.z],null,null),(l()(),g._20(-1,null,["\n          "])),(l()(),g.Z(9,0,null,null,9,"ion-card-title",[],null,null,null,null,null)),g.Y(10,16384,null,0,B.a,[w.a,g.j,g.z],null,null),(l()(),g._20(-1,null,["\n            "])),(l()(),g.Z(12,0,null,null,5,"a",[["href","assets/docs/dissertation.pdf"],["target","_blank"]],null,null,null,null,null)),(l()(),g.Z(13,0,null,null,0,"img",[["class","docImg"],["src","assets/docs/docIcon.png"]],null,null,null,null,null)),(l()(),g._20(-1,null,["\n              "])),(l()(),g.Z(15,0,null,null,2,"button",[["ion-button",""],["outline",""]],null,null,null,j.b,j.a)),g.Y(16,1097728,null,0,z.a,[[8,""],w.a,g.j,g.z],{outline:[0,"outline"]},null),(l()(),g._20(-1,0,["View PDF"])),(l()(),g._20(-1,null,["\n\n          "])),(l()(),g._20(-1,null,["\n          "])),(l()(),g.Z(20,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),g._20(-1,null,["\n            Investigating the Changes in Ice Extent of Tidewater Glaciers along Oates Coast, East Antarctica\n          "])),(l()(),g._20(-1,null,["\n        "])),(l()(),g._20(-1,null,["\n      "])),(l()(),g._20(-1,null,["\n    "]))],function(l,n){l(n,16,0,"")},null)}function f(l){return g._22(0,[(l()(),g.Z(0,0,null,null,6,"ion-row",[["class","row"],["text-center",""]],null,null,null,null,null)),g.Y(1,16384,null,0,I.a,[],null,null),(l()(),g._20(-1,null,["\n      "])),(l()(),g.Z(3,0,null,null,2,"a",[["button",""],["class","modalButton"],["ion-button",""],["item-end",""],["outline",""],["target","_blank"]],[[8,"href",4]],null,null,j.b,j.a)),g.Y(4,1097728,null,0,z.a,[[8,""],w.a,g.j,g.z],{outline:[0,"outline"]},null),(l()(),g._20(-1,0,["Visit Website"])),(l()(),g._20(-1,null,["\n    "]))],function(l,n){l(n,4,0,"")},function(l,n){l(n,3,0,n.component.data.url)})}function m(l){return g._22(0,[g._18(671088640,1,{slides:0}),(l()(),g.Z(1,0,null,null,32,"ion-header",[],null,null,null,null,null)),g.Y(2,16384,null,0,S.a,[w.a,g.j,g.z,[2,C.a]],null,null),(l()(),g._20(-1,null,["\n  "])),(l()(),g.Z(4,0,null,null,28,"ion-toolbar",[["class","toolbar"],["color","dark"]],[[2,"statusbar-padding",null]],null,null,O.b,O.a)),g.Y(5,49152,null,0,T.a,[w.a,g.j,g.z],{color:[0,"color"]},null),(l()(),g._20(-1,3,["\n    "])),(l()(),g.Z(7,0,null,1,20,"ion-buttons",[["start",""]],null,null,null,null,null)),g.Y(8,16384,null,1,L.a,[w.a,g.j,g.z,[2,T.a],[2,N.a]],null,null),g._18(603979776,2,{_buttons:1}),(l()(),g._20(-1,null,["\n      "])),(l()(),g.Z(11,0,null,null,15,"button",[["ion-button",""]],null,[[null,"click"]],function(l,n,u){var a=!0;if("click"===n){a=!1!==l.component.dismiss()&&a}return a},j.b,j.a)),g.Y(12,1097728,[[2,4]],0,z.a,[[8,""],w.a,g.j,g.z],null,null),(l()(),g._20(-1,0,["\n        "])),(l()(),g.Z(14,0,null,0,3,"span",[["color","primary"],["ion-text",""],["showWhen","ios"]],[[2,"hidden-show-when",null]],null,null,null,null)),g.Y(15,147456,null,0,A.a,[[8,"ios"],x.a,g.u],null,null),g.Y(16,16384,null,0,V.a,[w.a,g.j,g.z],{color:[0,"color"]},null),(l()(),g._20(-1,null,["Back"])),(l()(),g._20(-1,0,["\n        "])),(l()(),g.Z(19,0,null,0,2,"ion-icon",[["color","white"],["name","arrow-round-back"],["role","img"],["showWhen","android,windows"]],[[2,"hide",null],[2,"hidden-show-when",null]],null,null,null,null)),g.Y(20,147456,null,0,D.a,[w.a,g.j,g.z],{color:[0,"color"],name:[1,"name"]},null),g.Y(21,147456,null,0,A.a,[[8,"android,windows"],x.a,g.u],null,null),(l()(),g._20(-1,0,["\n        "])),(l()(),g.Z(23,0,null,0,2,"ion-icon",[["name","close"],["role","img"],["showWhen","core"]],[[2,"hide",null],[2,"hidden-show-when",null]],null,null,null,null)),g.Y(24,147456,null,0,D.a,[w.a,g.j,g.z],{name:[0,"name"]},null),g.Y(25,147456,null,0,A.a,[[8,"core"],x.a,g.u],null,null),(l()(),g._20(-1,0,["\n      "])),(l()(),g._20(-1,null,["\n    "])),(l()(),g._20(-1,3,["\n    "])),(l()(),g.Z(29,0,null,3,2,"ion-title",[],null,null,null,W.b,W.a)),g.Y(30,49152,null,0,E.a,[w.a,g.j,g.z,[2,T.a],[2,N.a]],null,null),(l()(),g._20(31,0,["\n      ","\n    "])),(l()(),g._20(-1,3,["\n  "])),(l()(),g._20(-1,null,["\n"])),(l()(),g._20(-1,null,["\n\n"])),(l()(),g.Z(35,0,null,null,41,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,R.b,R.a)),g.Y(36,4374528,null,0,q.a,[w.a,x.a,G.a,g.j,g.z,X.a,$.a,g.u,[2,C.a],[2,J.a]],null,null),(l()(),g._20(-1,1,["\n\n  "])),(l()(),g._20(-1,1,["\n  "])),(l()(),g.Z(39,0,null,1,8,"ion-grid",[["class","grid"]],null,null,null,null,null)),g.Y(40,16384,null,0,K.a,[],null,null),(l()(),g._20(-1,null,["\n    "])),(l()(),g.Z(42,0,null,null,4,"ion-row",[["align-items-center",""],["class","imgRow row"],["text-center",""]],null,null,null,null,null)),g.Y(43,16384,null,0,I.a,[],null,null),(l()(),g._20(-1,null,["\n      "])),(l()(),g.Z(45,0,null,null,0,"img",[["class","modalImage"]],[[8,"src",4],[4,"height",null]],null,null,null,null)),(l()(),g._20(-1,null,["\n    "])),(l()(),g._20(-1,null,["\n  "])),(l()(),g._20(-1,1,["\n\n  "])),(l()(),g.Z(49,0,null,1,26,"ion-list",[],null,null,null,null,null)),g.Y(50,16384,null,0,Q.a,[w.a,g.j,g.z,x.a,ll.l,G.a],null,null),(l()(),g._20(-1,null,["\n    "])),(l()(),g._20(-1,null,["\n    "])),(l()(),g.U(16777216,null,null,1,null,a)),g.Y(54,16384,null,0,v.i,[g.I,g.F],{ngIf:[0,"ngIf"]},null),(l()(),g._20(-1,null,["\n\n    "])),(l()(),g._20(-1,null,["\n    "])),(l()(),g.U(16777216,null,null,1,null,t)),g.Y(58,16384,null,0,v.i,[g.I,g.F],{ngIf:[0,"ngIf"]},null),(l()(),g._20(-1,null,["\n\n    "])),(l()(),g._20(-1,null,["\n    "])),(l()(),g.U(16777216,null,null,1,null,i)),g.Y(62,16384,null,0,v.i,[g.I,g.F],{ngIf:[0,"ngIf"]},null),(l()(),g._20(-1,null,["\n\n    "])),(l()(),g._20(-1,null,["\n    "])),(l()(),g.U(16777216,null,null,1,null,_)),g.Y(66,16384,null,0,v.i,[g.I,g.F],{ngIf:[0,"ngIf"]},null),(l()(),g._20(-1,null,["\n\n    "])),(l()(),g._20(-1,null,["\n    "])),(l()(),g.U(16777216,null,null,1,null,d)),g.Y(70,16384,null,0,v.i,[g.I,g.F],{ngIf:[0,"ngIf"]},null),(l()(),g._20(-1,null,["\n\n    "])),(l()(),g._20(-1,null,["\n    "])),(l()(),g.U(16777216,null,null,1,null,f)),g.Y(74,16384,null,0,v.i,[g.I,g.F],{ngIf:[0,"ngIf"]},null),(l()(),g._20(-1,null,["\n\n  "])),(l()(),g._20(-1,1,["\n\n\n\n\n"])),(l()(),g._20(-1,null,["\n"]))],function(l,n){var u=n.component;l(n,5,0,"dark");l(n,16,0,"primary");l(n,20,0,"white","arrow-round-back");l(n,24,0,"close");l(n,54,0,u.data.description);l(n,58,0,u.data.article);l(n,62,0,u.data.list);l(n,66,0,u.data.screenshots);l(n,70,0,u.data.doc);l(n,74,0,u.data.url)},function(l,n){var u=n.component;l(n,4,0,g._11(n,5)._sbPadding);l(n,14,0,!g._11(n,15).isMatch);l(n,19,0,g._11(n,20)._hidden,!g._11(n,21).isMatch);l(n,23,0,g._11(n,24)._hidden,!g._11(n,25).isMatch);l(n,31,0,u.data.title);l(n,35,0,g._11(n,36).statusbarPadding,g._11(n,36)._hasRefresher);l(n,45,0,u.data.img,u.getImageSize(u.data))})}u.d(n,"a",function(){return tl});var g=u(0),p=u(123),b=u(16),h=u(13),w=u(1),y=u(39),Y=u(55),Z=u(41),I=u(79),j=u(38),z=u(20),v=u(11),k=u(232),P=u(73),F=u(45),M=u(233),x=u(3),C=u(4),H=u(83),U=u(84),B=u(100),S=u(76),O=u(200),T=u(34),L=u(80),N=u(32),A=u(87),V=u(119),D=u(37),W=u(198),E=u(56),R=u(199),q=u(21),G=u(8),X=u(9),$=u(24),J=u(19),K=u(78),Q=u(47),ll=u(6),nl=u(82),ul=u(10),al=g.X({encapsulation:2,styles:[],data:{}}),tl=g.V("page-modal",nl.a,function(l){return g._22(0,[(l()(),g.Z(0,0,null,null,1,"page-modal",[],null,null,null,m,al)),g.Y(1,49152,null,0,nl.a,[J.a,ul.a,x.a,C.a],null,null)],null,null)},{data:"data"},{},[])},203:function(l,n,u){"use strict";function a(l){return o._22(0,[o._18(402653184,1,{nav:0}),(l()(),o.Z(1,0,null,null,2,"ion-nav",[],null,null,null,I.b,I.a)),o._16(6144,null,j.a,null,[z.a]),o.Y(3,4374528,[[1,4]],0,z.a,[[2,v.a],[2,k.a],P.a,F.a,M.a,o.j,o.u,o.z,o.i,x.l,C.a,[2,H.a],U.a,o.k],{root:[0,"root"]},null),(l()(),o._20(-1,null,["\n"]))],function(l,n){l(n,3,0,n.component.rootPage)},null)}Object.defineProperty(n,"__esModule",{value:!0});var t=u(28),o=u(0),e=(u(5),u(46),u(74)),i=u(75),r=function(){function l(l,n,u,a,t){this.platform=l,this.statusBar=n,this.splashScreen=u,this.alertCtrl=a,this.app=t,this.rootPage="TabsPage",this.initializeApp()}return l.prototype.initializeApp=function(){var l=this;this.platform.ready().then(function(){l.platform.registerBackButtonAction(function(){l.nav.setRoot("menuPage")})})},l}(),c=u(137),s=u(187),_=function(){return function(){}}(),d=u(50),f=u(189),m=u(190),g=u(191),p=u(192),b=u(193),h=u(194),w=u(195),y=u(196),Y=u(197),Z=u(202),I=u(201),j=u(33),z=u(48),v=u(4),k=u(19),P=u(9),F=u(1),M=u(3),x=u(6),C=u(26),H=u(14),U=u(8),B=u(61),S=o.X({encapsulation:2,styles:[],data:{}}),O=o.V("ng-component",r,function(l){return o._22(0,[(l()(),o.Z(0,0,null,null,1,"ng-component",[],null,null,null,a,S)),o.Y(1,49152,null,0,r,[M.a,i.a,e.a,B.a,P.a],null,null)],null,null)},{},{},[]),T=u(11),L=u(107),N=u(188),A=u(89),V=u(18),D=u(98),W=u(106),E=u(13),R=u(27),q=u(24),G=u(104),X=u(124),$=u(52),J=u(40),K=u(77),Q=u(62),ll=u(114),nl=u(109),ul=u(85),al=u(185),tl=u(108),ol=u(25),el=u(105),il=u(110),rl=u(82),cl=o.W(_,[d.b],function(l){return o._7([o._8(512,o.i,o.S,[[8,[f.a,m.a,g.a,p.a,b.a,h.a,w.a,y.a,Y.a,Z.a,O]],[3,o.i],o.s]),o._8(5120,o.r,o._17,[[3,o.r]]),o._8(4608,T.k,T.j,[o.r,[2,T.s]]),o._8(5120,o.b,o._1,[]),o._8(5120,o.p,o._9,[]),o._8(5120,o.q,o._12,[]),o._8(4608,t.c,t.q,[T.c]),o._8(6144,o.D,null,[t.c]),o._8(4608,t.f,L.a,[]),o._8(5120,t.d,function(l,n,u,a,o){return[new t.k(l,n),new t.o(u),new t.n(a,o)]},[T.c,o.u,T.c,T.c,t.f]),o._8(4608,t.e,t.e,[t.d,o.u]),o._8(135680,t.m,t.m,[T.c]),o._8(4608,t.l,t.l,[t.e,t.m]),o._8(5120,N.a,s.d,[]),o._8(5120,N.c,s.e,[]),o._8(4608,N.b,s.c,[N.a,N.c]),o._8(5120,o.B,s.f,[t.l,N.b,o.u]),o._8(6144,t.p,null,[t.m]),o._8(4608,o.G,o.G,[o.u]),o._8(4608,t.h,t.h,[T.c]),o._8(4608,t.i,t.i,[T.c]),o._8(4608,A.b,s.b,[o.B,t.b]),o._8(4608,V.k,V.k,[]),o._8(4608,V.c,V.c,[]),o._8(4608,D.a,D.a,[P.a,F.a]),o._8(4608,B.a,B.a,[P.a,F.a]),o._8(4608,W.a,W.a,[]),o._8(4608,E.a,E.a,[]),o._8(4608,R.a,R.a,[M.a]),o._8(4608,q.a,q.a,[F.a,M.a,o.u,U.a]),o._8(4608,G.a,G.a,[P.a,F.a]),o._8(5120,T.f,X.c,[T.q,[2,T.a],F.a]),o._8(4608,T.e,T.e,[T.f]),o._8(5120,$.b,$.d,[P.a,$.a]),o._8(5120,H.a,H.b,[P.a,$.b,T.e,J.b,o.i]),o._8(4608,K.a,K.a,[P.a,F.a,H.a]),o._8(4608,Q.a,Q.a,[P.a,F.a]),o._8(4608,ll.a,ll.a,[P.a,F.a,H.a]),o._8(4608,nl.a,nl.a,[F.a,M.a,U.a,P.a,x.l]),o._8(4608,ul.a,ul.a,[P.a,F.a]),o._8(4608,C.a,C.a,[M.a,F.a]),o._8(4608,i.a,i.a,[]),o._8(4608,e.a,e.a,[]),o._8(512,T.b,T.b,[]),o._8(512,o.k,al.a,[]),o._8(256,F.b,{},[]),o._8(1024,tl.a,tl.b,[]),o._8(1024,M.a,M.b,[t.b,tl.a,o.u]),o._8(1024,F.a,F.c,[F.b,M.a]),o._8(512,U.a,U.a,[M.a]),o._8(512,ol.a,ol.a,[]),o._8(512,P.a,P.a,[F.a,M.a,[2,ol.a]]),o._8(512,x.l,x.l,[P.a]),o._8(256,$.a,{links:[{loadChildren:"../pages/contact/contact.module.ngfactory#ContactPageModuleNgFactory",name:"ContactPage",segment:"page-contact",priority:"low",defaultHistory:[]},{loadChildren:"../pages/home/home.module.ngfactory#HomePageModuleNgFactory",name:"HomePage",segment:"page-home",priority:"low",defaultHistory:[]},{loadChildren:"../pages/map/map.module.ngfactory#MapPageModuleNgFactory",name:"MapPage",segment:"page-map",priority:"low",defaultHistory:[]},{loadChildren:"../pages/menu/menu.module.ngfactory#MenuPageModuleNgFactory",name:"MenuPage",segment:"menu",priority:"low",defaultHistory:[]},{loadChildren:"../pages/modal/modal.module.ngfactory#ModalPageModuleNgFactory",name:"ModalPage",segment:"page-modal",priority:"low",defaultHistory:[]},{loadChildren:"../pages/tabs/tabs.module.ngfactory#TabsPageModuleNgFactory",name:"TabsPage",segment:"page-tabs",priority:"low",defaultHistory:[]}]},[]),o._8(512,o.h,o.h,[]),o._8(512,el.a,el.a,[o.h]),o._8(1024,J.b,J.c,[el.a,o.o]),o._8(1024,o.c,function(l,n,u,a,o,e,i,r,c,s,_,d,f){return[t.s(l),il.a(n),W.b(u,a),nl.b(o,e,i,r,c),J.d(s,_,d,f)]},[[2,o.t],F.a,M.a,U.a,F.a,M.a,U.a,P.a,x.l,F.a,$.a,J.b,o.u]),o._8(512,o.d,o.d,[[2,o.c]]),o._8(131584,o.f,o.f,[o.u,o.T,o.o,o.k,o.i,o.d]),o._8(512,o.e,o.e,[o.f]),o._8(512,t.a,t.a,[[3,t.a]]),o._8(512,s.a,s.a,[]),o._8(512,V.j,V.j,[]),o._8(512,V.d,V.d,[]),o._8(512,V.i,V.i,[]),o._8(512,X.a,X.a,[]),o._8(512,X.b,X.b,[]),o._8(512,c.a,c.a,[]),o._8(512,_,_,[]),o._8(256,J.a,rl.a,[]),o._8(256,d.a,r,[]),o._8(256,T.a,"/",[])])});Object(o.M)(),Object(t.j)().bootstrapModuleFactory(cl)},82:function(l,n,u){"use strict";u.d(n,"a",function(){return a});u(5),u(46);var a=function(){function l(l,n,u,a){this.navCtrl=l,this.navParams=n,this.viewCtrl=a,this.data=this.navParams.get("data"),u.registerBackButtonAction(function(){a.dismiss()})}return l.prototype.ionViewDidLoad=function(){console.log("ionViewDidLoad ModalPage")},l.prototype.nextSlide=function(){this.slides.slideNext()},l.prototype.prevSlide=function(){this.slides.slidePrev()},l.prototype.dismiss=function(){this.viewCtrl.dismiss()},l.prototype.getImageSize=function(l){return l.imgHeight?l.imgHeight:"auto"},l}()}},[203]);
+webpackJsonp([5],{
+
+/***/ 109:
+/***/ (function(module, exports) {
+
+function webpackEmptyAsyncContext(req) {
+	// Here Promise.resolve().then() is used instead of new Promise() to prevent
+	// uncatched exception popping up in devtools
+	return Promise.resolve().then(function() {
+		throw new Error("Cannot find module '" + req + "'.");
+	});
+}
+webpackEmptyAsyncContext.keys = function() { return []; };
+webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
+module.exports = webpackEmptyAsyncContext;
+webpackEmptyAsyncContext.id = 109;
+
+/***/ }),
+
+/***/ 150:
+/***/ (function(module, exports, __webpack_require__) {
+
+var map = {
+	"../pages/contact/contact.module": [
+		272,
+		2
+	],
+	"../pages/home/home.module": [
+		273,
+		0
+	],
+	"../pages/map/map.module": [
+		274,
+		1
+	],
+	"../pages/menu/menu.module": [
+		275,
+		4
+	],
+	"../pages/modal/modal.module": [
+		151
+	],
+	"../pages/tabs/tabs.module": [
+		276,
+		3
+	]
+};
+function webpackAsyncContext(req) {
+	var ids = map[req];
+	if(!ids)
+		return Promise.reject(new Error("Cannot find module '" + req + "'."));
+	return Promise.all(ids.slice(1).map(__webpack_require__.e)).then(function() {
+		return __webpack_require__(ids[0]);
+	});
+};
+webpackAsyncContext.keys = function webpackAsyncContextKeys() {
+	return Object.keys(map);
+};
+webpackAsyncContext.id = 150;
+module.exports = webpackAsyncContext;
+
+/***/ }),
+
+/***/ 151:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ModalPageModule", function() { return ModalPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__modal__ = __webpack_require__(244);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var ModalPageModule = /** @class */ (function () {
+    function ModalPageModule() {
+    }
+    ModalPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__modal__["a" /* ModalPage */]
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__modal__["a" /* ModalPage */])
+            ],
+        })
+    ], ModalPageModule);
+    return ModalPageModule;
+}());
+
+//# sourceMappingURL=modal.module.js.map
+
+/***/ }),
+
+/***/ 195:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__ = __webpack_require__(196);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_module__ = __webpack_require__(218);
+
+
+Object(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_1__app_module__["a" /* AppModule */]);
+//# sourceMappingURL=main.js.map
+
+/***/ }),
+
+/***/ 218:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_platform_browser__ = __webpack_require__(26);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__app_component__ = __webpack_require__(262);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__ionic_native_status_bar__ = __webpack_require__(194);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__ionic_native_splash_screen__ = __webpack_require__(191);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__pages_modal_modal_module__ = __webpack_require__(151);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__angular_platform_browser_animations__ = __webpack_require__(270);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+
+var AppModule = /** @class */ (function () {
+    function AppModule() {
+    }
+    AppModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_3__app_component__["a" /* MyApp */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1__angular_platform_browser__["a" /* BrowserModule */],
+                __WEBPACK_IMPORTED_MODULE_7__angular_platform_browser_animations__["a" /* BrowserAnimationsModule */],
+                __WEBPACK_IMPORTED_MODULE_6__pages_modal_modal_module__["ModalPageModule"],
+                __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["e" /* IonicModule */].forRoot(__WEBPACK_IMPORTED_MODULE_3__app_component__["a" /* MyApp */], {}, {
+                    links: [
+                        { loadChildren: '../pages/contact/contact.module#ContactPageModule', name: 'ContactPage', segment: 'page-contact', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/home/home.module#HomePageModule', name: 'HomePage', segment: 'page-home', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/map/map.module#MapPageModule', name: 'MapPage', segment: 'page-map', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/menu/menu.module#MenuPageModule', name: 'MenuPage', segment: 'menu', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/modal/modal.module#ModalPageModule', name: 'ModalPage', segment: 'page-modal', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/tabs/tabs.module#TabsPageModule', name: 'TabsPage', segment: 'page-tabs', priority: 'low', defaultHistory: [] }
+                    ]
+                }),
+            ],
+            bootstrap: [__WEBPACK_IMPORTED_MODULE_2_ionic_angular__["c" /* IonicApp */]],
+            entryComponents: [
+                __WEBPACK_IMPORTED_MODULE_3__app_component__["a" /* MyApp */],
+            ],
+            providers: [
+                __WEBPACK_IMPORTED_MODULE_4__ionic_native_status_bar__["a" /* StatusBar */],
+                __WEBPACK_IMPORTED_MODULE_5__ionic_native_splash_screen__["a" /* SplashScreen */],
+                { provide: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ErrorHandler */], useClass: __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["d" /* IonicErrorHandler */] }
+            ]
+        })
+    ], AppModule);
+    return AppModule;
+}());
+
+//# sourceMappingURL=app.module.js.map
+
+/***/ }),
+
+/***/ 244:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ModalPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(32);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+/**
+ * Generated class for the ModalPage page.
+ *
+ * See https://ionicframework.com/docs/components/#navigation for more info on
+ * Ionic pages and navigation.
+ */
+var ModalPage = /** @class */ (function () {
+    function ModalPage(navCtrl, navParams, platform, viewCtrl) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.viewCtrl = viewCtrl;
+        this.data = this.navParams.get('data');
+        platform.registerBackButtonAction(function () { viewCtrl.dismiss(); });
+    }
+    ModalPage.prototype.ionViewDidLoad = function () {
+        console.log('ionViewDidLoad ModalPage');
+    };
+    ModalPage.prototype.nextSlide = function () {
+        this.slides.slideNext();
+    };
+    ModalPage.prototype.prevSlide = function () {
+        this.slides.slidePrev();
+    };
+    ModalPage.prototype.dismiss = function () {
+        this.viewCtrl.dismiss();
+    };
+    ModalPage.prototype.getImageSize = function (item) {
+        if (item.imgHeight) {
+            return item.imgHeight;
+        }
+        else {
+            return "auto";
+        }
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_8" /* ViewChild */])(__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* Slides */]),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* Slides */])
+    ], ModalPage.prototype, "slides", void 0);
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Input */])(),
+        __metadata("design:type", Object)
+    ], ModalPage.prototype, "data", void 0);
+    ModalPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'page-modal',template:/*ion-inline-start:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\pages\modal\modal.html"*/'<ion-header>\n\n  <ion-toolbar color="dark">\n\n    <ion-buttons start>\n\n      <button ion-button (click)="dismiss()">\n\n        <span ion-text color="secondary" showWhen="ios">Back</span>\n\n        <ion-icon name="arrow-round-back" color="white" showWhen="android,windows"></ion-icon>\n\n        <ion-icon showWhen="core" name="close"></ion-icon>\n\n      </button>\n\n    </ion-buttons>\n\n    <ion-title>\n\n      {{data.title}}\n\n    </ion-title>\n\n  </ion-toolbar>\n\n</ion-header>\n\n\n\n<ion-content>\n\n\n\n  <!-- IMAGE -->\n\n  <ion-grid>\n\n    <ion-row class="imgRow" align-items-center text-center>\n\n      <img class="modalImage" [src]="data.img" [style.height]="getImageSize(data)">\n\n    </ion-row>\n\n  </ion-grid>\n\n\n\n  <ion-list>\n\n    <!-- DESCRIPTION -->\n\n    <ion-item no-lines *ngIf="data.description">\n\n      <ion-label class="modalDesc" text-wrap text-justify [innerHTML]="data.description"></ion-label>\n\n    </ion-item>\n\n\n\n    <!-- ARTICLE BUTTON -->\n\n    <ion-row text-center *ngIf="data.article">\n\n      <a button ion-button outline color="secondary" [href]="data.article" class="modalButton" target="_blank" item-end>See\n\n        Article</a>\n\n    </ion-row>\n\n\n\n    <!-- LIST -->\n\n    <div *ngIf="data.list" padding>\n\n\n\n      <ion-item no-lines *ngIf="data.listTitle">\n\n        <strong>{{data.listTitle}}</strong>\n\n      </ion-item>\n\n\n\n      <ion-item class="modalList" text-wrap *ngFor="let item of data.list">\n\n        <span class="bullet"></span>\n\n        <span>{{item}}</span>\n\n        <!-- <ion-note item-end>\n\n        fghfgh\n\n      </ion-note> -->\n\n      </ion-item>\n\n    </div>\n\n\n\n    <!-- SLIDER -->\n\n    <ion-row style="margin-top: 30px; padding-left:10px; padding-right:10px;" *ngIf="data.screenshots">\n\n      <ion-slides pager zoom>\n\n        <ion-slide *ngFor="let ss of data.screenshots">\n\n          <div class="swiper-zoom-container">\n\n            <img class="modalScreenshot" [src]="ss">\n\n          </div>\n\n        </ion-slide>\n\n      </ion-slides>\n\n      <button *ngIf="data.screenshots.length > 1" type="submit" ion-button small color="secondary" class="swiper-button-prev swiper-button-white"\n\n        (click)="prevSlide()"></button>\n\n      <button *ngIf="data.screenshots.length > 1" type="submit" ion-button small color="secondary" class="swiper-button-next swiper-button-white"\n\n        (click)="nextSlide()"></button>\n\n    </ion-row>\n\n\n\n    <!-- ATTATCHMENT -->\n\n    <ion-row class="docRow" *ngIf="data.doc">\n\n      <ion-card class="docCard">\n\n\n\n        <ion-card-content>\n\n          <ion-card-title>\n\n            <a href="assets/docs/dissertation.pdf" target="_blank"><img class="docImg" src="assets/docs/docIcon.png" />\n\n              <button ion-button outline>View PDF</button></a>\n\n\n\n          </ion-card-title>\n\n          <p>\n\n            Investigating the Changes in Ice Extent of Tidewater Glaciers along Oates Coast, East Antarctica\n\n          </p>\n\n        </ion-card-content>\n\n      </ion-card>\n\n    </ion-row>\n\n\n\n    <!-- BUTTON VISIT WEBSITE -->\n\n    <ion-row text-center *ngIf="data.url">\n\n      <a button ion-button outline color="secondary" [href]="data.url" class="modalButton" target="_blank" item-end>Visit\n\n        Website</a>\n\n    </ion-row>\n\n\n\n  </ion-list>\n\n\n\n\n\n\n\n\n\n</ion-content>\n\n'/*ion-inline-end:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\pages\modal\modal.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["j" /* NavParams */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["k" /* Platform */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["n" /* ViewController */]])
+    ], ModalPage);
+    return ModalPage;
+}());
+
+//# sourceMappingURL=modal.js.map
+
+/***/ }),
+
+/***/ 262:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MyApp; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_ionic_angular__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__ionic_native_splash_screen__ = __webpack_require__(191);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ionic_native_status_bar__ = __webpack_require__(194);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+var MyApp = /** @class */ (function () {
+    function MyApp(platform, statusBar, splashScreen, alertCtrl, app) {
+        this.platform = platform;
+        this.statusBar = statusBar;
+        this.splashScreen = splashScreen;
+        this.alertCtrl = alertCtrl;
+        this.app = app;
+        this.rootPage = 'TabsPage';
+        this.initializeApp();
+    }
+    MyApp.prototype.initializeApp = function () {
+        var _this = this;
+        this.platform.ready().then(function () {
+            // Okay, so the platform is ready and our plugins are available.
+            // Here you can do any higher level native things you might need.
+            _this.platform.registerBackButtonAction(function () {
+                _this.nav.setRoot('menuPage');
+            });
+        });
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_2__angular_core__["_8" /* ViewChild */])(__WEBPACK_IMPORTED_MODULE_0_ionic_angular__["h" /* Nav */]),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_0_ionic_angular__["h" /* Nav */])
+    ], MyApp.prototype, "nav", void 0);
+    MyApp = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_2__angular_core__["m" /* Component */])({template:/*ion-inline-start:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\app\app.html"*/'<ion-nav [root]="rootPage"></ion-nav>\n'/*ion-inline-end:"C:\Users\joedavies\Documents\Formacion\Angular\cv\src\app\app.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_0_ionic_angular__["k" /* Platform */],
+            __WEBPACK_IMPORTED_MODULE_3__ionic_native_status_bar__["a" /* StatusBar */],
+            __WEBPACK_IMPORTED_MODULE_1__ionic_native_splash_screen__["a" /* SplashScreen */],
+            __WEBPACK_IMPORTED_MODULE_0_ionic_angular__["a" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_0_ionic_angular__["b" /* App */]])
+    ], MyApp);
+    return MyApp;
+}());
+
+//# sourceMappingURL=app.component.js.map
+
+/***/ })
+
+},[195]);
+//# sourceMappingURL=main.js.map
