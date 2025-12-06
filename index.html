@@ -28,7 +28,9 @@
     <meta name="twitter:image" content="https://joewdavies.github.io/images/bivariate.jpg">
 
     <!-- css -->
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" href="./css/carousel.css">
+    <link rel="stylesheet" href="./css/projects.css">
 </head>
 
 <body>
@@ -158,28 +160,7 @@
     <script>
         document.getElementById('year').textContent = new Date().getFullYear();
     </script>
-    <script>
-        const track = document.querySelector('.carousel-track');
-        const images = Array.from(track.children);
-        const nextButton = document.querySelector('.next');
-        const prevButton = document.querySelector('.prev');
-
-        let index = 0;
-
-        const update = () => {
-            track.style.transform = `translateX(-${index * 100}%)`;
-        };
-
-        nextButton.addEventListener('click', () => {
-            index = (index + 1) % images.length;
-            update();
-        });
-
-        prevButton.addEventListener('click', () => {
-            index = (index - 1 + images.length) % images.length;
-            update();
-        });
-    </script>
+    <script src='./js/carousel.js'></script>
 </body>
 
 </html>

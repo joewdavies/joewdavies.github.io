@@ -1,0 +1,70 @@
+/* Carousel container */
+.carousel {
+    position: relative;
+    overflow: hidden;
+    max-width: 700px;
+    margin: 1.5rem auto;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Horizontal image track */
+.carousel-track {
+    display: flex;
+    transition: transform 0.3s ease;
+}
+
+/* allow vertical page scroll while enabling horizontal swipe in carousel */
+.carousel {
+    touch-action: pan-y;
+}
+
+/* make track images not intercept pointer events while swiping */
+.carousel-track img {
+    -webkit-user-drag: none;
+    user-drag: none;
+    user-select: none;
+    pointer-events: none;
+}
+
+/* Images */
+.carousel img {
+    width: 100%;
+    flex-shrink: 0;
+    object-fit: contain;
+    max-height: 400px;
+}
+
+/* Arrow buttons */
+.carousel button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(255, 255, 255, 0.8);
+    border: none;
+    font-size: 2rem;
+    padding: 0 0.5rem;
+    cursor: pointer;
+    z-index: 10;
+    border-radius: 4px;
+}
+
+.carousel button:hover {
+    filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.3));
+}
+
+.carousel .prev {
+    left: 10px;
+}
+
+.carousel .next {
+    right: 10px;
+}
+
+/* Mobile tweaks */
+@media (max-width: 600px) {
+    .carousel button {
+        font-size: 1.5rem;
+    }
+}
