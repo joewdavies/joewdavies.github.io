@@ -26,6 +26,11 @@
     }
 }
 
+.project:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    border: solid 1px #ddd;
+}
+
 .projects a {
     display: block;
     padding: 1rem;
