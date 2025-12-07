@@ -1,56 +1,68 @@
-const track = document.querySelector('.carousel-track');
+const carousel = document.querySelector('.carousel');
+const track = carousel.querySelector('.carousel-track');
 const images = Array.from(track.children);
-const nextButton = document.querySelector('.next');
-const prevButton = document.querySelector('.prev');
+const nextButton = carousel.querySelector('.next');
+const prevButton = carousel.querySelector('.prev');
 
 let index = 0;
 let startX = 0;
 let currentX = 0;
 let isDragging = false;
 
-const update = () => {
-    track.style.transition = 'transform 0.3s ease-in-out';
-    track.style.transform = `translateX(-${index * 100}%)`;
-};
+function getSlideWidth() {
+  return carousel.clientWidth;
+}
 
-// --- Button navigation ---
+function update(withTransition = true) {
+  const slideWidth = getSlideWidth();
+  track.style.transition = withTransition ? 'transform 0.3s ease' : 'none';
+  track.style.transform = `translateX(${-index * slideWidth}px)`;
+}
+
 nextButton.addEventListener('click', () => {
-    index = (index + 1) % images.length;
-    update();
+  if (index < images.length - 1) index++;
+  update();
 });
 
 prevButton.addEventListener('click', () => {
-    index = (index - 1 + images.length) % images.length;
-    update();
+  if (index > 0) index--;
+  update();
 });
 
-// --- Touch / Swipe support ---
-track.addEventListener('touchstart', (e) => {
-    startX = e.touches[0].clientX;
-    isDragging = true;
-    track.style.transition = 'none';
+// ✅ Listen on the carousel container
+carousel.addEventListener('touchstart', e => {
+  startX = e.touches[0].clientX;
+  currentX = startX;
+  isDragging = true;
+  track.style.transition = 'none';
 });
 
-track.addEventListener('touchmove', (e) => {
-    if (!isDragging) return;
-    currentX = e.touches[0].clientX;
-    const diff = currentX - startX;
-    const movePercent = (diff / track.offsetWidth) * 100;
-    track.style.transform = `translateX(calc(-${index * 100}% + ${movePercent}%))`;
+carousel.addEventListener('touchmove', e => {
+  if (!isDragging) return;
+  currentX = e.touches[0].clientX;
+  const diff = currentX - startX;
+  const slideWidth = getSlideWidth();
+  track.style.transform = `translateX(${-index * slideWidth + diff}px)`;
 });
 
-track.addEventListener('touchend', () => {
-    if (!isDragging) return;
-    isDragging = false;
-    const diff = currentX - startX;
+carousel.addEventListener('touchend', () => {
+  if (!isDragging) return;
+  isDragging = false;
 
-    if (Math.abs(diff) > 50) { // threshold in px
-        if (diff < 0) {
-            index = (index + 1) % images.length; // swipe left → next
-        } else {
-            index = (index - 1 + images.length) % images.length; // swipe right → prev
-        }
-    }
+  const diff = currentX - startX;
+  const slideWidth = getSlideWidth();
+  const threshold = slideWidth * 0.2;
 
-    update();
+  if (diff > threshold && index > 0) index--;
+  else if (diff < -threshold && index < images.length - 1) index++;
+
+  update(true);
 });
+
+carousel.addEventListener('touchcancel', () => {
+  isDragging = false;
+  update(true);
+});
+
+window.addEventListener('resize', () => update(false));
+update(false);
