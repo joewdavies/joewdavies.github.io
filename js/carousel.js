@@ -29,7 +29,7 @@ prevButton.addEventListener('click', () => {
   update();
 });
 
-// ✅ Listen on the carousel container
+//  Listen on the carousel container
 carousel.addEventListener('touchstart', e => {
   startX = e.touches[0].clientX;
   currentX = startX;
