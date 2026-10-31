@@ -116,8 +116,13 @@ footer {
     width: 28px;
     height: 28px;
     opacity: 0.85;
-    filter: var(--icon-filter);
     transition: opacity 0.2s, transform 0.2s;
+}
+
+/* monochrome icons need inverting in dark mode; coloured ones keep their brand colours */
+.social-links a img[src*="github"],
+.social-links a img[src*="observable"] {
+    filter: var(--icon-filter);
 }
 
 .social-links a:hover img {
