@@ -4,181 +4,268 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="canonical" href="https://joewdavies.github.io/statle/">
-    <title>Joseph Davies - Cartographer</title>
+    <meta name="color-scheme" content="light dark">
+    <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self'; script-src 'self' https://gc.zgo.at; img-src 'self' data: https://joewdavies.goatcounter.com; connect-src https://joewdavies.goatcounter.com; style-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
+    <link rel="canonical" href="https://joewdavies.github.io/">
+    <title>Joseph Davies – Cartographer</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
-    <link rel="icon" href="favicon-32x32.png" type="image/png">
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <link rel="icon" href="favicon-32x32.png" type="image/png" sizes="32x32">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
     <!-- Basic SEO -->
-    <meta name="description" content="Joseph Davies – Portfolio, projects, and contact information.">
-    <meta name="keywords" content="Joseph Davies, portfolio, developer, projects, GitHub">
+    <meta name="description"
+        content="Joseph Davies is a cartographer, visualization designer and consultant. Maps, data visualization and open-source mapping libraries.">
     <meta name="author" content="Joseph Davies">
+    <meta name="robots" content="index, follow">
 
     <!-- Socials -->
-    <meta property="og:title" content="Joseph Davies – Portfolio">
-    <meta property="og:description" content="A simple, clean portfolio showcasing my work and projects.">
+    <meta property="og:title" content="Joseph Davies – Cartographer">
+    <meta property="og:description"
+        content="Cartographer, visualization designer and consultant. Maps, data visualization and open-source mapping libraries.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://joewdavies.github.io/">
-    <meta property="og:image" content="https://joewdavies.github.io/images/bivariate.jpg">
+    <meta property="og:image" content="https://joewdavies.github.io/images/og-image.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Map of Spain's river watersheds, split between the Atlantic and Mediterranean basins.">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Joseph Davies – Portfolio">
-    <meta name="twitter:description" content="A simple portfolio showcasing my work and projects.">
-    <meta name="twitter:image" content="https://joewdavies.github.io/images/bivariate.jpg">
+    <meta name="twitter:title" content="Joseph Davies – Cartographer">
+    <meta name="twitter:description"
+        content="Cartographer, visualization designer and consultant. Maps, data visualization and open-source mapping libraries.">
+    <meta name="twitter:image" content="https://joewdavies.github.io/images/og-image.jpg">
+
+    <!-- Structured data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Joseph Davies",
+        "url": "https://joewdavies.github.io/",
+        "jobTitle": "Cartographer",
+        "description": "Cartographer, visualization designer and consultant.",
+        "image": "https://joewdavies.github.io/images/og-image.jpg",
+        "sameAs": [
+            "https://github.com/joewdavies",
+            "https://www.linkedin.com/in/joewdavies",
+            "https://bsky.app/profile/joewdavies.bsky.social",
+            "https://observablehq.com/@joewdavies"
+        ]
+    }
+    </script>
 
     <!-- css -->
     <link rel="stylesheet" href="./css/styles.css">
-    <link rel="stylesheet" href="./css/carousel.css">
-    <link rel="stylesheet" href="./css/projects.css">
 
     <!-- GoatCounter -->
-    <script data-goatcounter="https://joewdavies.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    <script data-goatcounter="https://joewdavies.goatcounter.com/count" async
+        src="https://gc.zgo.at/count.js"></script>
 </head>
 
 <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
     <header>
         <h1>Joseph Davies</h1>
         <p>Cartographer, visualization designer and consultant.</p>
-        <nav>
+        <nav aria-label="Main">
             <a href="#about">About</a>
+            <a href="#gallery">Gallery</a>
             <a href="#projects">Projects</a>
             <a href="#contact">Contact</a>
         </nav>
     </header>
 
-    <section id="links" class="social-links">
-        <a href="https://github.com/joewdavies" target="_blank" aria-label="GitHub">
-            <img src="images/icons/icon-github.svg" alt="">
-        </a>
+    <main id="main">
+        <section class="social-links" aria-label="Social links">
+            <a href="https://github.com/joewdavies" target="_blank" rel="noopener noreferrer"
+                aria-label="GitHub (opens in a new tab)">
+                <img src="images/icons/icon-github.svg" alt="" width="28" height="28">
+            </a>
 
-        <a href="https://www.linkedin.com/in/joewdavies" target="_blank" aria-label="LinkedIn">
-            <img src="images/icons/icon-linkedin.svg" alt="">
-        </a>
+            <a href="https://www.linkedin.com/in/joewdavies" target="_blank" rel="noopener noreferrer"
+                aria-label="LinkedIn (opens in a new tab)">
+                <img src="images/icons/icon-linkedin.svg" alt="" width="28" height="28">
+            </a>
 
-        <a href="https://bsky.app/profile/joewdavies.bsky.social" target="_blank" aria-label="Bluesky">
-            <img src="images/icons/icon-bluesky.svg" alt="">
-        </a>
+            <a href="https://bsky.app/profile/joewdavies.bsky.social" target="_blank" rel="noopener noreferrer"
+                aria-label="Bluesky (opens in a new tab)">
+                <img src="images/icons/icon-bluesky.svg" alt="" width="28" height="28">
+            </a>
 
-        <a href="https://observablehq.com/@joewdavies" target="_blank" aria-label="ObservableHQ">
-            <img src="images/icons/icon-observable.svg" alt="">
-        </a>
-    </section>
+            <a href="https://observablehq.com/@joewdavies" target="_blank" rel="noopener noreferrer"
+                aria-label="Observable (opens in a new tab)">
+                <img src="images/icons/icon-observable.svg" alt="" width="28" height="28">
+            </a>
+        </section>
 
-    <section id="about">
-        <h2>About</h2>
+        <section id="about" aria-labelledby="about-heading">
+            <h2 id="about-heading">About</h2>
 
-        <div>
             <p>Hello there! I'm Joe and I love maps.</p>
             <p>I am committed to exploring new ways of using visualization design principles and cartographic best
-                practices to help derive
-                meaningful
-                insight from geographic information.</p>
-        </div>
-    </section>
+                practices to help derive meaningful insight from geographic information.</p>
+            <p>My work ranges from thematic maps of European statistics to 3D-looking relief maps, and I build
+                open-source JavaScript tools for mapping and visualizing gridded data. I also work as a consultant
+                &ndash; get in touch if you have a mapping project in mind.</p>
+        </section>
 
-    <section id="gallery">
-        <h2>Gallery</h2>
+        <section id="gallery" aria-labelledby="gallery-heading">
+            <h2 id="gallery-heading">Gallery</h2>
 
-        <div class="carousel">
-            <button class="prev">‹</button>
+            <div class="carousel" role="region" aria-roledescription="carousel" aria-label="Map gallery" tabindex="0">
+                <button type="button" class="prev" aria-label="Previous map">&lsaquo;</button>
 
-            <div class="carousel-track">
-                <img src="images/gallery/bivariate.jpg">
-                <img src="images/gallery/flights.png">
-                <img src="images/gallery/watershed.jpg">
-                <img src="images/gallery/top-10-flight-routes-map.svg">
-                <!-- <img src="images/gallery/air-passengers-flow-map.svg">
-                <img src="images/gallery/air-freight-flow-map.svg"> -->
-                <img src="images/gallery/bivariate3d.jpg">
-                <img src="images/gallery/submarine-cables.png">
-                <img src="images/gallery/ridgeplot.png">
-                <img src="images/gallery/dorling.png">
-                <img src="images/gallery/coxcomb.png">
-                <img src="images/gallery/cereal.png">
-                <img src="images/gallery/life-expectancy-small-multiple.png">
-                <img src="images/gallery/population-change.png">
-                <img src="images/gallery/spilhaus.jpg">
-                <img src="images/gallery/welsh-schools.jpg">
-                <img src="images/gallery/experiblend.jpg">
-                <img src="images/gallery/madrid.gif">
-                <img src="images/gallery/world.jpg">
-                <img src="images/gallery/roman-roads.jpg">
-                <img src="images/gallery/japan.jpg">
-               
-                <img src="images/gallery/italy.jpg">
-                <img src="images/gallery/eurostat-map.gif">
+                <div class="carousel-track" aria-live="polite">
+                    <img src="images/gallery/bivariate.webp" width="800" height="502" data-title="Bivariate climate map of the USA"
+                        alt="Bivariate choropleth map of the contiguous United States combining temperature and precipitation, with a diamond-shaped colour legend. The Southwest is orange, the Northeast dark blue-green and the Northwest pale.">
+                    <img src="images/gallery/flights.webp" width="1400" height="997" loading="lazy" decoding="async"
+                        data-title="Airport passenger flows"
+                        alt="Flow map of air passenger traffic between airports on a grey basemap. Dense bundles of dark lines converge on a few large hub airports, with circles sized by passengers.">
+                    <img src="images/gallery/watershed.webp" width="1400" height="990" loading="lazy" decoding="async"
+                        data-title="River watersheds of Spain"
+                        alt="Dark map of Spain's river network. Rivers draining to the Atlantic are drawn in red and those draining to the Mediterranean in blue, showing the two watershed basins.">
+                    <img src="images/gallery/top-10-flight-routes-map.webp" width="1400" height="1097" loading="lazy" decoding="async"
+                        data-title="Top 10 flight routes from Madrid"
+                        alt="Map of the ten busiest flight routes to and from Madrid, drawn as curved blue lines whose width shows passengers carried and colour shows change on 2023. Annotations call out Barcelona and Palma de Mallorca as the busiest route.">
+                    <img src="images/gallery/bivariate3d.webp" width="858" height="1050" loading="lazy" decoding="async"
+                        data-title="3D bivariate relief of Great Britain and Ireland"
+                        alt="Shaded relief model of Great Britain and Ireland coloured with a bivariate palette, with blues in the Scottish Highlands and oranges across the lowlands.">
+                    <img src="images/gallery/submarine-cables.webp" width="1400" height="1148" loading="lazy" decoding="async"
+                        data-title="Submarine cables"
+                        alt="Globe centred on North America with coloured lines tracing submarine internet cables across the oceans, densest along the US coasts and the Caribbean.">
+                    <img src="images/gallery/ridgeplot.webp" width="1400" height="1010" loading="lazy" decoding="async"
+                        data-title="Ridgeplot of Europe"
+                        alt="Ridgeline plot of Europe where stacked black ridges peak over major cities, with labels for London, Paris, Madrid, Rome, Berlin, Warsaw, Stockholm, Helsinki and Athens.">
+                    <img src="images/gallery/dorling.webp" width="1400" height="973" loading="lazy" decoding="async"
+                        data-title="Dorling cartogram of European GDP"
+                        alt="Dorling cartogram of European countries as orange circles labelled with country codes. Germany, France, Italy and Spain are the largest.">
+                    <img src="images/gallery/coxcomb.webp" width="875" height="748" loading="lazy" decoding="async"
+                        data-title="Tourism nights spent in Europe"
+                        alt="Map of Europe showing nights spent in tourist accommodation in 2022 as small coxcomb charts per country, with one petal per month and colours for domestic and foreign guests.">
+                    <img src="images/gallery/cereal.webp" width="875" height="742" loading="lazy" decoding="async"
+                        data-title="Cereal production in Europe"
+                        alt="Map of European cereal production in 2022 using pie charts sized by tonnes and coloured by cereal type such as wheat, barley and maize.">
+                    <img src="images/gallery/life-expectancy-small-multiple.webp" width="739" height="431" loading="lazy" decoding="async"
+                        data-title="Life expectancy in Europe"
+                        alt="Two side-by-side green choropleth maps of Europe titled Male and Female, showing life expectancy in years, with the darkest greens in southern Europe.">
+                    <img src="images/gallery/population-change.webp" width="1070" height="854" loading="lazy" decoding="async"
+                        data-title="Population change in Europe since 2012"
+                        alt="Small-multiple maps of Europe, one for each year from 2012 to 2023, showing population change per 1000 inhabitants on a diverging yellow to teal scale.">
+                    <img src="images/gallery/spilhaus.webp" width="1264" height="1289" loading="lazy" decoding="async"
+                        data-title="Spilhaus projection"
+                        alt="Relief map of the world's oceans in the Spilhaus projection, in pale blue with a graticule, with the continents shown as raised blocks.">
+                    <img src="images/gallery/welsh-schools.webp" width="1400" height="1043" loading="lazy" decoding="async"
+                        data-title="Welsh-speaking schools in Wales"
+                        alt="Map of Wales showing primary schools as hexagon symbols sized by number of schools and shaded in red by the share that are Welsh-speaking. The title notes that 32.5% of primary schools are Welsh-speaking.">
+                    <img src="images/gallery/experiblend.webp" width="1264" height="1304" loading="lazy" decoding="async"
+                        data-title="3D city model"
+                        alt="Circular 3D-style map of a dense city district rendered in Blender, with yellow buildings, green parks and a pale blue river crossing the scene.">
+                    <img src="images/gallery/madrid.webp" width="900" height="759" loading="lazy" decoding="async"
+                        data-title="Madrid animation"
+                        alt="Animated map of Madrid that begins from a blank outline of Spain.">
+                    <img src="images/gallery/world.webp" width="1400" height="790" loading="lazy" decoding="async"
+                        data-title="World relief"
+                        alt="Relief map of the whole world in an oval projection, showing green and blue land with ocean-floor topography.">
+                    <img src="images/gallery/roman-roads.webp" width="1400" height="990" loading="lazy" decoding="async"
+                        data-title="Roman roads"
+                        alt="Map of the Roman road network around the Mediterranean, with major roads in dark red and minor roads in lighter red on a cream background, beside a statue of an emperor.">
+                    <img src="images/gallery/japan.webp" width="800" height="848" loading="lazy" decoding="async"
+                        data-title="Relief map of Japan"
+                        alt="Shaded relief map of Japan, with the elevation shown in blue and purple, on a pale background. The title reads JAPAN in English and Japanese.">
+                    <img src="images/gallery/italy.webp" width="1130" height="1400" loading="lazy" decoding="async"
+                        data-title="Relief map of Italy"
+                        alt="Shaded relief map of Italy, green in the lowlands and red-brown in the Alps and Apennines, with labelled peaks and an Italian flag.">
+                    <img src="images/gallery/eurostat-map.webp" width="800" height="680" loading="lazy" decoding="async"
+                        data-title="GDP per capita (eurostat-map)"
+                        alt="Animated choropleth map of GDP per capita in EU countries in 2022, from yellow for low values to dark blue for high values, made with the eurostat-map library.">
+                </div>
+
+                <button type="button" class="next" aria-label="Next map">&rsaquo;</button>
             </div>
 
-            <button class="next">›</button>
-        </div>
-    </section>
+            <p class="carousel-caption"><span class="carousel-title"></span> <span class="carousel-count"></span></p>
+        </section>
 
-    <section id="projects">
-        <h2>Projects</h2>
-        <div class="projects">
+        <section id="projects" aria-labelledby="projects-heading">
+            <h2 id="projects-heading">Projects</h2>
+            <div class="projects">
 
-            <a class="project" href="https://github.com/eurostat/eurostat-map" target="_blank">
-                <img src="images/logos/eurostat-map-logo.png" alt="eurostat-map logo">
-                <div>
-                    <strong>eurostat-map</strong><br>
-                    Thematic mapping library for Eurostat data.
-                </div>
-            </a>
+                <a class="project" href="https://github.com/eurostat/eurostat-map" target="_blank"
+                    rel="noopener noreferrer">
+                    <img src="images/logos/eurostat-map-logo.webp" alt="eurostat-map logo" width="144" height="43"
+                        loading="lazy" decoding="async">
+                    <div>
+                        <strong>eurostat-map</strong> <span class="ext" aria-hidden="true">&nearr;</span><br>
+                        Thematic mapping library for Eurostat data.
+                        <span class="visually-hidden">(opens in a new tab)</span>
+                    </div>
+                </a>
 
-            <a class="project" href="https://github.com/eurostat/gridviz" target="_blank">
-                <img src="images/logos/gridviz-logo.png" alt="gridviz logo">
-                <div>
-                    <strong>gridviz</strong><br>
-                    JavaScript library for visualizing gridded data.
-                </div>
-            </a>
+                <a class="project" href="https://github.com/eurostat/gridviz" target="_blank"
+                    rel="noopener noreferrer">
+                    <img src="images/logos/gridviz-logo.webp" alt="gridviz logo" width="144" height="120"
+                        loading="lazy" decoding="async">
+                    <div>
+                        <strong>gridviz</strong> <span class="ext" aria-hidden="true">&nearr;</span><br>
+                        JavaScript library for visualizing gridded data.
+                        <span class="visually-hidden">(opens in a new tab)</span>
+                    </div>
+                </a>
 
-            <a class="project" href="https://github.com/joewdavies/awesome-frontend-gis" target="_blank">
-                <img src="images/logos/awesome-frontend-gis.png" alt="Awesome Frontend GIS logo">
-                <div>
-                    <strong>Awesome Frontend GIS</strong><br>
-                    Awesome list for frontend GIS developers.
-                </div>
-            </a>
+                <a class="project" href="https://github.com/joewdavies/awesome-frontend-gis" target="_blank"
+                    rel="noopener noreferrer">
+                    <img src="images/logos/awesome-frontend-gis.webp" alt="Awesome Frontend GIS logo" width="144"
+                        height="144" loading="lazy" decoding="async">
+                    <div>
+                        <strong>Awesome Frontend GIS</strong> <span class="ext" aria-hidden="true">&nearr;</span><br>
+                        Awesome list for frontend GIS developers.
+                        <span class="visually-hidden">(opens in a new tab)</span>
+                    </div>
+                </a>
 
-            <a class="project" href="https://joewdavies.github.io/statle/" target="_blank">
-                <img src="images/logos/statle-logo.png" alt="Statle logo">
-                <div>
-                    <strong>Statle</strong><br>
-                    Worldle-like guessing game using country statistics.
-                </div>
-            </a>
+                <a class="project" href="https://joewdavies.github.io/statle/" target="_blank"
+                    rel="noopener noreferrer">
+                    <img src="images/logos/statle-logo.webp" alt="Statle logo" width="144" height="144"
+                        loading="lazy" decoding="async">
+                    <div>
+                        <strong>Statle</strong> <span class="ext" aria-hidden="true">&nearr;</span><br>
+                        Worldle-like guessing game using country statistics.
+                        <span class="visually-hidden">(opens in a new tab)</span>
+                    </div>
+                </a>
 
-            <a class="project" href="https://github.com/joewdavies/geoblender" target="_blank">
-                <img src="images/gallery/greece.jpg" alt="Geoblender logo">
-                <div>
-                    <strong>Geoblender</strong><br>
-                    Tutorials for making 3D-looking maps with Blender and QGIS
-                </div>
-            </a>
+                <a class="project" href="https://github.com/joewdavies/geoblender" target="_blank"
+                    rel="noopener noreferrer">
+                    <img src="images/logos/geoblender.webp" alt="Relief map of Greece, the Geoblender project image"
+                        width="144" height="144" loading="lazy" decoding="async">
+                    <div>
+                        <strong>Geoblender</strong> <span class="ext" aria-hidden="true">&nearr;</span><br>
+                        Tutorials for making 3D-looking maps with Blender and QGIS.
+                        <span class="visually-hidden">(opens in a new tab)</span>
+                    </div>
+                </a>
 
+            </div>
+        </section>
 
-        </div>
-    </section>
-
-
-
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>Email: <a href="mailto:jwd101@gmail.com">jwd101@gmail.com</a></p>
-        <p>GitHub: <a href="https://github.com/joewdavies">@joewdavies</a></p>
-    </section>
+        <section id="contact" aria-labelledby="contact-heading">
+            <h2 id="contact-heading">Contact</h2>
+            <p>Email: <a id="email" href="#contact" data-user="jwd101" data-domain="gmail.com">jwd101 [at] gmail [dot]
+                    com</a></p>
+            <p>GitHub: <a href="https://github.com/joewdavies" target="_blank" rel="noopener noreferrer">@joewdavies<span
+                        class="visually-hidden"> (opens in a new tab)</span></a></p>
+        </section>
+    </main>
 
     <footer>
-        © <span id="year"></span> Joseph Davies
+        &copy; <span id="year">2026</span> Joseph Davies
     </footer>
 
-    <script>
-        document.getElementById('year').textContent = new Date().getFullYear();
-    </script>
-    <script src='./js/carousel.js'></script>
+    <script src="./js/main.js"></script>
+    <script src="./js/carousel.js"></script>
 </body>
 
 </html>
